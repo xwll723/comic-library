@@ -1,0 +1,65 @@
+name: 抓取更新
+
+on:
+  schedule:
+    # 每天 UTC 22:00（北京时间 6:00）
+    - cron: '0 22 * * *'
+  workflow_dispatch: # 允许手动触发
+  push:
+    paths:
+      - 'books.txt' # 改书单立刻跑一次
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+
+    steps:
+      - name: 取得仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 抓取新章节
+        env:
+          # 每本书每次最多抓几章，避免一次跑太久（0 = 不限）
+          CRAWL_LIMIT: '5'
+        run: |
+          if [ "$CRAWL_LIMIT" = "0" ]; then
+            node crawl.js
+          else
+            node crawl.js --limit "$CRAWL_LIMIT"
+          fi
+
+      - name: 生成 OPDS
+        run: node opds.js
+
+      - name: 提交结果
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "没有更新"
+          else
+            git commit -m "更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "已提交"
+          fi
+
+      - name: 防止 60 天无活动被停用
+        if: always()
+        run: |
+          mkdir -p .heartbeat
+          date -u '+%Y-%m-%d %H:%M UTC' > .heartbeat/last-run.txt
+          git add .heartbeat
+          if ! git diff --staged --quiet; then
+            git commit -m "心跳 $(date -u '+%Y-%m-%d')"
+            git push || true
+          fi
