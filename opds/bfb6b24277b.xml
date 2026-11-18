@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>urn:uuid:47fc43ec-e9e0-5447-a731-eceba96ce23b</id>
+  <title>我独自升级</title>
+  <updated>2026-11-18T11:06:48Z</updated>
+  <author><name>包子漫畫</name></author>
+  <link rel="self" href="https://xwll723.github.io/comic-library/opds/bfb6b24277b.xml"
+        type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="start" href="https://xwll723.github.io/comic-library/opds/index.xml"
+        type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="up" href="https://xwll723.github.io/comic-library/opds/index.xml"
+        type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>我独自升级 第001话：最弱猎人</title>
+    <id>urn:uuid:36678e7c-9870-557b-abbd-c5fb3cd6e2e7</id>
+    <updated>2026-11-18T10:36:38Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://xwll723.github.io/comic-library/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0001.cbz"
+          type="application/vnd.comicbook+zip"/>
+  </entry>
+</feed>
