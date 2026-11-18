@@ -82,13 +82,6 @@ function localCover(key) {
     return hit ? `${LIBURL}/${encodeURIComponent(key)}/${encodeURIComponent(hit)}` : null
 }
 
-/** 章节缩略图是否已生成 */
-function chapterThumb(key, cbzName) {
-    const p = path.join(LIB, key, 'thumbs', cbzName.replace(/\.cbz$/i, '.jpg'))
-    if (!fs.existsSync(p)) return null
-    return `${LIBURL}/${encodeURIComponent(key)}/thumbs/${encodeURIComponent(path.basename(p))}`
-}
-
 /** 列出某本书实际的 CBZ 文件 */
 function listCbz(key) {
     const dir = path.join(LIB, key)
@@ -133,14 +126,10 @@ function build() {
                 })
                 const title = match || f.replace(/\.cbz$/i, '')
                 const updated = new Date(fs.statSync(path.join(LIB, b.key, f)).mtime).toISOString().replace(/\.\d+Z$/, 'Z')
-                const th = chapterThumb(b.key, f)
-                const thLink = th
-                    ? `\n    <link rel="http://opds-spec.org/image/thumbnail" href="${esc(th)}" type="image/jpeg"/>`
-                    : ''
                 return `  <entry>
     <title>${esc(title)}</title>
     <id>urn:uuid:${uuidFor(b.key + '/' + f)}</id>
-    <updated>${updated}</updated>${thLink}
+    <updated>${updated}</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="${LIBURL}/${encodeURIComponent(b.key)}/${encodeURIComponent(f)}"
           type="application/vnd.comicbook+zip"/>
