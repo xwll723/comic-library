@@ -152,10 +152,10 @@ function build() {
           href="${LIBURL}/${encodeURIComponent(b.key)}/${encodeURIComponent(f)}"
           type="application/zip"/>
     <link rel="http://opds-spec.org/acquisition"
-          href="${LIBURL}/${bookSlug(b.key)}/${encodeURIComponent(f)}"
+          href="${LIBURL}/${encodeURIComponent(b.key)}/${encodeURIComponent(f)}"
           type="application/vnd.comicbook+zip"/>
     <link rel="http://opds-spec.org/acquisition"
-          href="${LIBURL}/${bookSlug(b.key)}/${encodeURIComponent(f)}"
+          href="${LIBURL}/${encodeURIComponent(b.key)}/${encodeURIComponent(f)}"
           type="application/x-cbr"/>
   </entry>`
             })
