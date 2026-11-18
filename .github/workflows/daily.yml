@@ -45,14 +45,11 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           HF_REPO: xwll/comic-library
-          # 每本书每次最多抓几章，避免一次跑太久（0 = 不限）
-          CRAWL_LIMIT: '5'
+          # 首次抓新书：0 = 不限（一次抓完）；日常更新每次最多几章
+          FIRST_LIMIT: '0'
+          DAILY_LIMIT: '5'
         run: |
-          if [ "$CRAWL_LIMIT" = "0" ]; then
-            node crawl.js
-          else
-            node crawl.js --limit "$CRAWL_LIMIT" --upload
-          fi
+          node crawl.js --upload
 
       - name: 生成 OPDS
         env:

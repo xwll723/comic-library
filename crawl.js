@@ -31,7 +31,10 @@ const argOf = (n) => {
     const i = args.indexOf(n)
     return i >= 0 ? args[i + 1] : null
 }
-const LIMIT = Number(argOf('--limit')) || 0
+const CLI_LIMIT = argOf('--limit') !== null && argOf('--limit') !== undefined ? Number(argOf('--limit')) : null
+// 首次抓一本新书时不限量（一次抓完）；之后每天只抓新增
+const FIRST_LIMIT = process.env.FIRST_LIMIT !== undefined ? Number(process.env.FIRST_LIMIT) : 0
+const DAILY_LIMIT = process.env.DAILY_LIMIT !== undefined ? Number(process.env.DAILY_LIMIT) : 5
 const ONLY = argOf('--book')
 const UPLOAD = args.includes('--upload') // 打包后上传 Hugging Face 并删除本地文件
 
@@ -41,6 +44,15 @@ const UA =
 // ---------------------------------------------------------------- 工具
 
 const log = (...a) => console.log(...a)
+
+/** 从详情描述里判断连载状态（各源字段不同，统一在 description 里找关键词） */
+function detectStatus(desc, tags) {
+    // 有的源把状态放在 tags 里（比如拷贝的 tags['狀態'] = ['連載中']）
+    const t = String(desc || '') + ' ' + JSON.stringify(tags || {})
+    if (/已完結|已完结|已完结|完結|完结状态|已完结状态/.test(t)) return 'completed'
+    if (/連載中|连载中|連載|连载/.test(t)) return 'ongoing'
+    return 'unknown'
+}
 
 /** 文件名安全化 */
 function safeName(s) {
@@ -189,7 +201,7 @@ async function main() {
         return
     }
 
-    log(`=== 开始，共 ${books.length} 本书${LIMIT ? `，每本上限 ${LIMIT} 章` : ''}`)
+    log(`=== 开始，共 ${books.length} 本书` + (CLI_LIMIT !== null ? `（每本上限 ${CLI_LIMIT} 章）` : ''))
 
     // 预加载所有源
     const instances = []
@@ -235,6 +247,15 @@ async function main() {
 
         const stateKey = safeName(keyword)
         const st = loadState(stateKey)
+
+        // 已完结且章节都抓完了 → 彻底跳过，连详情都不请求
+        if (st.complete && (st.done || []).length >= (st.chapters || []).length && (st.chapters || []).length > 0) {
+            log(`    已完结（${st.done.length} 章），跳过`)
+            continue
+        }
+
+        const isFirst = (st.done || []).length === 0
+        const limit = CLI_LIMIT !== null ? CLI_LIMIT : (isFirst ? FIRST_LIMIT : DAILY_LIMIT)
         const doneSet = new Set(st.done || [])
 
         let used = null // 最终选定的源
@@ -284,7 +305,9 @@ async function main() {
 
         st.title = info.title || keyword
         st.cover = info.cover || st.cover || ''
-        st.status = /完結|完结|已完結/.test(info.description || '') ? 'completed' : st.status || 'ongoing'
+        st.status = detectStatus(info.description, info.tags) !== 'unknown'
+            ? detectStatus(info.description, info.tags)
+            : (st.status || 'ongoing')
         st.source = used.name
         st.chapters = allKeys
         st.done = st.done || []
@@ -304,14 +327,22 @@ async function main() {
         }
 
         let todo = allKeys.filter((k) => !doneSet.has(k))
+        const statusText = st.status === 'completed' ? '已完结' : st.status === 'ongoing' ? '连载中' : '状态未知'
+        // 已完结但还没抓完 → 不限量，一次补齐（连载的才按每日限额）
+        const catchUp = st.status === 'completed' && todo.length > 0
+        if (catchUp && CLI_LIMIT === null) {
+            log(`    已完结但还差 ${todo.length} 章，本次全量补齐`)
+        }
         if (!todo.length) {
-            log(`    已是最新（共 ${allKeys.length} 章）`)
+            log(`    已是最新（共 ${allKeys.length} 章，${statusText}）`)
             st.complete = st.status === 'completed'
             saveState(stateKey, st)
             continue
         }
-        if (LIMIT) todo = todo.slice(0, LIMIT)
-        log(`    待抓 ${todo.length} 章`)
+        const planned = todo.length
+        const effLimit = catchUp && CLI_LIMIT === null ? 0 : limit
+        if (effLimit > 0) todo = todo.slice(0, effLimit)
+        log(`    ${isFirst ? '首次抓取' : '增量更新'} | ${statusText} | 共 ${allKeys.length} 章，本次抓 ${todo.length}${planned > todo.length ? '/' + planned : ''} 章`)
 
         const dir = path.join(LIB, stateKey)
         fs.mkdirSync(dir, { recursive: true })
