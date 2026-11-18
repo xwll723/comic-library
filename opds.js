@@ -40,9 +40,12 @@ const esc = (s) =>
         .replace(/"/g, '&quot;')
         .replace(/'/g, '&apos;')
 
-/** 章节 feed 的文件名：纯 ASCII，避免各种客户端对中文 URL 编码处理不一致 */
+/** 书目录 / feed 名：纯 ASCII，避免客户端对中文 URL 编码处理不一致 */
+function bookSlug(key) {
+    return 'b' + crypto.createHash('md5').update(String(key)).digest('hex').slice(0, 10)
+}
 function feedFileName(key) {
-    return 'b' + crypto.createHash('md5').update(String(key)).digest('hex').slice(0, 10) + '.xml'
+    return bookSlug(key) + '.xml'
 }
 
 /** 稳定的 uuid，同一本书每次生成都一样，避免客户端重复入库 */
@@ -144,7 +147,7 @@ function build() {
     <id>urn:uuid:${uuidFor(b.key + '/' + f)}</id>
     <updated>${updated}</updated>
     <link rel="http://opds-spec.org/acquisition"
-          href="${LIBURL}/${encodeURIComponent(b.key)}/${encodeURIComponent(f)}"
+          href="${LIBURL}/${bookSlug(b.key)}/${encodeURIComponent(f)}"
           type="application/vnd.comicbook+zip"/>
   </entry>`
             })
@@ -170,7 +173,7 @@ ${chEntries}
         const content = `${files.length} 章`
         // 优先用本地存的封面；没存到才退回站点原图
         // 封面也传到了 HF，state 里记着文件名
-        const cover = b.coverFile ? `${LIBURL}/${encodeURIComponent(b.key)}/${encodeURIComponent(b.coverFile)}` : b.cover
+        const cover = b.coverFile ? `${LIBURL}/${bookSlug(b.key)}/${encodeURIComponent(b.coverFile)}` : b.cover
         const coverType = cover && /\.png$/i.test(cover) ? 'image/png' : cover && /\.webp$/i.test(cover) ? 'image/webp' : 'image/jpeg'
         const coverLink = cover
             ? `\n    <link rel="http://opds-spec.org/image" href="${esc(cover)}" type="${coverType}"/>

@@ -11,6 +11,12 @@
 const fs = require('fs')
 const path = require('path')
 const { execFileSync } = require('child_process')
+const crypto = require('crypto')
+
+/** 书目录名：纯 ASCII，避免阅读器对中文 URL 编码处理不一致 */
+function bookSlug(key) {
+    return 'b' + crypto.createHash('md5').update(String(key)).digest('hex').slice(0, 10)
+}
 const { loadSource } = require('./runtime')
 const { makeCbz } = require('./zip')
 
@@ -88,8 +94,9 @@ function epNumberOf(key) {
  * 上传一个 CBZ 到 Hugging Face。
  * 用单文件独立进程（python3 upload_one.py），避免长时间占用内存。
  */
-function uploadToHF(localPath) {
-    const rel = 'library/' + path.relative(LIB, localPath).replace(/\\/g, '/')
+function uploadToHF(localPath, slug) {
+    const fname = path.basename(localPath)
+    const rel = `library/${slug}/${fname}`
     try {
         execFileSync('python3', [path.join(ROOT, 'upload_one.py'), localPath, rel], {
             stdio: 'pipe',
@@ -316,13 +323,28 @@ async function main() {
         const coverDir = path.join(LIB, stateKey)
         fs.mkdirSync(coverDir, { recursive: true })
         const coverFile = path.join(coverDir, 'cover.jpg')
-        if (st.cover && !fs.existsSync(coverFile)) {
-            const img = await fetchImage(st.cover)
-            if (img) {
-                fs.writeFileSync(path.join(coverDir, 'cover' + img.ext), img.data)
-                log(`    封面已保存 (${(img.data.length / 1024).toFixed(0)}KB)`)
-            } else {
-                log(`    封面下载失败，跳过`)
+        if (st.cover) {
+            const slug = bookSlug(stateKey)
+            let need = !st.coverFile
+            const local = st.coverFile ? path.join(coverDir, st.coverFile) : null
+            if (local && fs.existsSync(local)) need = false
+            if (need) {
+                const img = await fetchImage(st.cover)
+                if (img) {
+                    const fname = 'cover' + img.ext
+                    const tmp = path.join(coverDir, fname)
+                    fs.writeFileSync(tmp, img.data)
+                    st.coverFile = fname
+                    log(`    封面已保存 (${(img.data.length / 1024).toFixed(0)}KB)`)
+                    if (UPLOAD) {
+                        const rel = uploadToHF(tmp, slug)
+                        if (rel) {
+                            try { fs.unlinkSync(tmp) } catch (e) {}
+                        }
+                    }
+                } else {
+                    log(`    封面下载失败，跳过`)
+                }
             }
         }
 
@@ -381,7 +403,7 @@ async function main() {
                 fs.writeFileSync(out, cbz)
 
                 if (UPLOAD) {
-                    const rel = uploadToHF(out)
+                    const rel = uploadToHF(out, bookSlug(stateKey))
                     if (!rel) {
                         log(`    ✗ ${fname} 上传失败，保留本地文件`)
                         continue

@@ -41,6 +41,12 @@ jobs:
       - name: 安装上传依赖
         run: pip install --quiet huggingface_hub
 
+      - name: 迁移旧路径（一次性，幂等）
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_REPO: xwll/comic-library
+        run: python3 migrate_hf.py
+
       - name: 抓取新章节
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
