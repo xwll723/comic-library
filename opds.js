@@ -30,7 +30,9 @@ const BASE = siteBase()
 const OPDS = BASE + '/opds'
 // CBZ 存在 Hugging Face，不在本仓库
 const HF_REPO = process.env.HF_REPO || 'xwll/comic-library'
-const LIBURL = `https://huggingface.co/datasets/${HF_REPO}/resolve/main/library`
+// 走 Cloudflare Worker 代理：HF 直链会 302，阅读器不跟随会报 404
+const WORKER = process.env.HF_WORKER || 'https://hf-proxy.xwll723825.workers.dev'
+const LIBURL = `${WORKER}/file/library`
 
 const esc = (s) =>
     String(s == null ? '' : s)
