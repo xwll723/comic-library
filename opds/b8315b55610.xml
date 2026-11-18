@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>urn:uuid:ef4c7a1f-b415-59ad-af8a-ff7b1b59b6de</id>
+  <title>超能立方</title>
+  <updated>2026-11-18T12:50:24Z</updated>
+  <author><name>嬉皮漫畫</name></author>
+  <link rel="self" href="https://xwll723.github.io/comic-library/opds/b8315b55610.xml"
+        type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="start" href="https://xwll723.github.io/comic-library/opds/index.xml"
+        type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="up" href="https://xwll723.github.io/comic-library/opds/index.xml"
+        type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>超能立方 第001話：神秘立方体</title>
+    <id>urn:uuid:ca9fee55-42d8-5a4a-aadd-100044491f8a</id>
+    <updated>2026-11-18T12:50:24Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://huggingface.co/datasets/xwll/comic-library/resolve/main/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0001.cbz"
+          type="application/vnd.comicbook+zip"/>
+  </entry>
+  <entry>
+    <title>超能立方 第002話：立方之谜</title>
+    <id>urn:uuid:f6cafb8f-da23-52b5-a56f-7cd62f667945</id>
+    <updated>2026-11-18T12:50:24Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://huggingface.co/datasets/xwll/comic-library/resolve/main/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0002.cbz"
+          type="application/vnd.comicbook+zip"/>
+  </entry>
+  <entry>
+    <title>超能立方 第003話：尴尬</title>
+    <id>urn:uuid:fa3588f9-ab86-5ee9-a112-5ece236b39a1</id>
+    <updated>2026-11-18T12:50:24Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://huggingface.co/datasets/xwll/comic-library/resolve/main/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0003.cbz"
+          type="application/vnd.comicbook+zip"/>
+  </entry>
+  <entry>
+    <title>超能立方 第004話：成为世界之王？</title>
+    <id>urn:uuid:1f72e3d0-0760-59bb-afaa-02f1909f39a5</id>
+    <updated>2026-11-18T12:50:24Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://huggingface.co/datasets/xwll/comic-library/resolve/main/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0004.cbz"
+          type="application/vnd.comicbook+zip"/>
+  </entry>
+  <entry>
+    <title>超能立方 第005話：融合</title>
+    <id>urn:uuid:09e99a03-fe4c-50a9-a436-9fca14fda79d</id>
+    <updated>2026-11-18T12:50:24Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://huggingface.co/datasets/xwll/comic-library/resolve/main/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0005.cbz"
+          type="application/vnd.comicbook+zip"/>
+  </entry>
+</feed>
