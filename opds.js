@@ -28,7 +28,9 @@ function siteBase() {
 
 const BASE = siteBase()
 const OPDS = BASE + '/opds'
-const LIBURL = BASE + '/library'
+// CBZ 存在 Hugging Face，不在本仓库
+const HF_REPO = process.env.HF_REPO || 'xwll/comic-library'
+const LIBURL = `https://huggingface.co/datasets/${HF_REPO}/resolve/main/library`
 
 const esc = (s) =>
     String(s == null ? '' : s)
@@ -50,6 +52,11 @@ function uuidFor(str) {
 }
 
 const now = () => new Date().toISOString().replace(/\.\d+Z$/, 'Z')
+
+/** 兜底：拿不到话数时用章节名做文件名 */
+function safeKey(k) {
+    return String(k).replace(/[\/\\:*?"<>|\s]/g, '_').slice(0, 60)
+}
 
 /** 从章节 key 里取话数，用于排序 */
 function epNo(key) {
@@ -105,7 +112,12 @@ function build() {
     let chapCount = 0
 
     for (const b of books) {
-        const files = listCbz(b.key)
+        // 章节来自抓取记录（CBZ 存在 Hugging Face，本地不留）
+        const files = (b.done || []).map((k) => {
+            const n = epNo(k)
+            return (n !== null ? String(n).padStart(4, '0') : safeKey(k)) + '.cbz'
+        })
+        files.sort()
         if (!files.length) continue
         bookCount++
         chapCount += files.length
@@ -156,7 +168,8 @@ ${chEntries}
 
         const content = `${files.length} 章`
         // 优先用本地存的封面；没存到才退回站点原图
-        const cover = localCover(b.key) || b.cover
+        // 封面也传到了 HF，state 里记着文件名
+        const cover = b.coverFile ? `${LIBURL}/${encodeURIComponent(b.key)}/${encodeURIComponent(b.coverFile)}` : b.cover
         const coverType = cover && /\.png$/i.test(cover) ? 'image/png' : cover && /\.webp$/i.test(cover) ? 'image/webp' : 'image/jpeg'
         const coverLink = cover
             ? `\n    <link rel="http://opds-spec.org/image" href="${esc(cover)}" type="${coverType}"/>

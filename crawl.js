@@ -10,6 +10,7 @@
  */
 const fs = require('fs')
 const path = require('path')
+const { execFileSync } = require('child_process')
 const { loadSource } = require('./runtime')
 const { makeCbz } = require('./zip')
 
@@ -32,6 +33,7 @@ const argOf = (n) => {
 }
 const LIMIT = Number(argOf('--limit')) || 0
 const ONLY = argOf('--book')
+const UPLOAD = args.includes('--upload') // 打包后上传 Hugging Face 并删除本地文件
 
 const UA =
     'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1'
@@ -68,6 +70,26 @@ function saveState(key, st) {
 function epNumberOf(key) {
     const m = /第\s*(\d+(?:\.\d+)?)\s*[話话]/.exec(key)
     return m ? Number(m[1]) : null
+}
+
+/**
+ * 上传一个 CBZ 到 Hugging Face。
+ * 用单文件独立进程（python3 upload_one.py），避免长时间占用内存。
+ */
+function uploadToHF(localPath) {
+    const rel = 'library/' + path.relative(LIB, localPath).replace(/\\/g, '/')
+    try {
+        execFileSync('python3', [path.join(ROOT, 'upload_one.py'), localPath, rel], {
+            stdio: 'pipe',
+            timeout: 180000,
+            env: process.env,
+        })
+        return rel
+    } catch (e) {
+        const msg = String((e.stderr || e.message || '')).slice(0, 120)
+        log(`    上传失败: ${msg}`)
+        return null
+    }
 }
 
 async function fetchImage(url, headers, timeoutMs = 25000) {
@@ -324,6 +346,19 @@ async function main() {
                 failStreak = 0
                 const cbz = makeCbz(imgs)
                 fs.writeFileSync(out, cbz)
+
+                if (UPLOAD) {
+                    const rel = uploadToHF(out)
+                    if (!rel) {
+                        log(`    ✗ ${fname} 上传失败，保留本地文件`)
+                        continue
+                    }
+                    try {
+                        fs.unlinkSync(out)
+                    } catch (e) {
+                        // 删不掉也无所谓
+                    }
+                }
                 totalBytes += cbz.length
                 totalNew++
                 doneSet.add(key)

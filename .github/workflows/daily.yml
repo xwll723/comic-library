@@ -26,18 +26,25 @@ jobs:
         with:
           node-version: '20'
 
+      - name: 安装上传依赖
+        run: pip install --quiet huggingface_hub
+
       - name: 抓取新章节
         env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_REPO: xwll/comic-library
           # 每本书每次最多抓几章，避免一次跑太久（0 = 不限）
           CRAWL_LIMIT: '5'
         run: |
           if [ "$CRAWL_LIMIT" = "0" ]; then
             node crawl.js
           else
-            node crawl.js --limit "$CRAWL_LIMIT"
+            node crawl.js --limit "$CRAWL_LIMIT" --upload
           fi
 
       - name: 生成 OPDS
+        env:
+          HF_REPO: xwll/comic-library
         run: node opds.js
 
       - name: 提交结果
