@@ -3,7 +3,7 @@
       xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:47fc43ec-e9e0-5447-a731-eceba96ce23b</id>
   <title>我独自升级</title>
-  <updated>2026-11-18T12:22:38Z</updated>
+  <updated>2026-11-18T12:40:20Z</updated>
   <author><name>包子漫畫</name></author>
   <link rel="self" href="https://xwll723.github.io/comic-library/opds/bfb6b24277b.xml"
         type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
@@ -14,7 +14,7 @@
   <entry>
     <title>我独自升级 第001话：最弱猎人</title>
     <id>urn:uuid:36678e7c-9870-557b-abbd-c5fb3cd6e2e7</id>
-    <updated>2026-11-18T12:22:38Z</updated>
+    <updated>2026-11-18T12:40:20Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://huggingface.co/datasets/xwll/comic-library/resolve/main/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0001.cbz"
           type="application/vnd.comicbook+zip"/>
@@ -22,7 +22,7 @@
   <entry>
     <title>我独自升级 第002话：双重地下城</title>
     <id>urn:uuid:85ddae95-29b8-5ab5-a143-d66e56e0df59</id>
-    <updated>2026-11-18T12:22:38Z</updated>
+    <updated>2026-11-18T12:40:20Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://huggingface.co/datasets/xwll/comic-library/resolve/main/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0002.cbz"
           type="application/vnd.comicbook+zip"/>
@@ -30,7 +30,7 @@
   <entry>
     <title>我独自升级 第003话：石像</title>
     <id>urn:uuid:1693e141-fe41-5861-a723-3b930a6a3ca4</id>
-    <updated>2026-11-18T12:22:38Z</updated>
+    <updated>2026-11-18T12:40:20Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://huggingface.co/datasets/xwll/comic-library/resolve/main/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0003.cbz"
           type="application/vnd.comicbook+zip"/>
@@ -38,7 +38,7 @@
   <entry>
     <title>我独自升级 第004话：“神”</title>
     <id>urn:uuid:0df05495-dc7f-5c91-a938-2f3688f88b94</id>
-    <updated>2026-11-18T12:22:38Z</updated>
+    <updated>2026-11-18T12:40:20Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://huggingface.co/datasets/xwll/comic-library/resolve/main/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0004.cbz"
           type="application/vnd.comicbook+zip"/>
@@ -46,7 +46,7 @@
   <entry>
     <title>我独自升级 第005话：地下城的规则</title>
     <id>urn:uuid:04208665-121f-5a1b-a56e-85e52d219dfc</id>
-    <updated>2026-11-18T12:22:38Z</updated>
+    <updated>2026-11-18T12:40:20Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://huggingface.co/datasets/xwll/comic-library/resolve/main/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0005.cbz"
           type="application/vnd.comicbook+zip"/>
@@ -54,7 +54,7 @@
   <entry>
     <title>我独自升级 第006话：恐惧</title>
     <id>urn:uuid:71195e71-21d7-5140-a860-783ed25d444a</id>
-    <updated>2026-11-18T12:22:38Z</updated>
+    <updated>2026-11-18T12:40:20Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://huggingface.co/datasets/xwll/comic-library/resolve/main/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0006.cbz"
           type="application/vnd.comicbook+zip"/>
