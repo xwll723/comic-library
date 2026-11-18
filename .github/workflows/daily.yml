@@ -26,6 +26,23 @@ jobs:
         with:
           node-version: '20'
 
+      - name: 检查 HF token
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          echo "token 长度: ${#HF_TOKEN}"
+          echo "开头 4 位: ${HF_TOKEN:0:4}"
+          python3 - <<'EOF'
+import os, sys
+t = os.environ.get('HF_TOKEN', '')
+bad = []
+if not t: bad.append('为空')
+if t != t.strip(): bad.append('两端有空白字符')
+if ' ' in t or '\n' in t: bad.append('中间含空格/换行')
+if not t.startswith('hf_'): bad.append('不是 hf_ 开头')
+print('异常:', bad if bad else '无')
+EOF
+
       - name: 安装上传依赖
         run: pip install --quiet huggingface_hub
 
