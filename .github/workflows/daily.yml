@@ -26,6 +26,9 @@ jobs:
         with:
           node-version: '20'
 
+      - name: 安装 Pillow（生成章节缩略图用）
+        run: pip install --quiet pillow
+
       - name: 抓取新章节
         env:
           # 每本书每次最多抓几章，避免一次跑太久（0 = 不限）
