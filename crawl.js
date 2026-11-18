@@ -10,6 +10,7 @@
  */
 const fs = require('fs')
 const path = require('path')
+const { execFileSync } = require('child_process')
 const { loadSource } = require('./runtime')
 const { makeCbz } = require('./zip')
 
@@ -68,6 +69,23 @@ function saveState(key, st) {
 function epNumberOf(key) {
     const m = /第\s*(\d+(?:\.\d+)?)\s*[話话]/.exec(key)
     return m ? Number(m[1]) : null
+}
+
+/**
+ * 给章节生成缩略图（OPDS 章节列表靠它显示画面）。
+ * 用 Python + Pillow；没装就静默跳过，不影响抓取。
+ */
+function makeThumb(cbzPath, thumbPath) {
+    try {
+        fs.mkdirSync(path.dirname(thumbPath), { recursive: true })
+        execFileSync('python3', [path.join(ROOT, 'thumb.py'), cbzPath, thumbPath], {
+            stdio: 'ignore',
+            timeout: 30000,
+        })
+        return fs.existsSync(thumbPath)
+    } catch {
+        return false
+    }
 }
 
 async function fetchImage(url, headers, timeoutMs = 25000) {
@@ -324,6 +342,8 @@ async function main() {
                 failStreak = 0
                 const cbz = makeCbz(imgs)
                 fs.writeFileSync(out, cbz)
+                // 章节缩略图（第一页缩小）
+                makeThumb(out, path.join(dir, 'thumbs', fname.replace(/\.cbz$/i, '.jpg')))
                 totalBytes += cbz.length
                 totalNew++
                 doneSet.add(key)
