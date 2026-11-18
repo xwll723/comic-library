@@ -149,7 +149,7 @@ function build() {
     <id>urn:uuid:${uuidFor(b.key + '/' + f)}</id>
     <updated>${updated}</updated>
     <link rel="http://opds-spec.org/acquisition"
-          href="${LIBURL}/${bookSlug(b.key)}/${encodeURIComponent(f)}"
+          href="${LIBURL}/${encodeURIComponent(b.key)}/${encodeURIComponent(f)}"
           type="application/zip"/>
     <link rel="http://opds-spec.org/acquisition"
           href="${LIBURL}/${bookSlug(b.key)}/${encodeURIComponent(f)}"
@@ -181,7 +181,7 @@ ${chEntries}
         const content = `${files.length} 章`
         // 优先用本地存的封面；没存到才退回站点原图
         // 封面也传到了 HF，state 里记着文件名
-        const cover = b.coverFile ? `${LIBURL}/${bookSlug(b.key)}/${encodeURIComponent(b.coverFile)}` : b.cover
+        const cover = b.coverFile ? `${LIBURL}/${encodeURIComponent(b.key)}/${encodeURIComponent(b.coverFile)}` : b.cover
         const coverType = cover && /\.png$/i.test(cover) ? 'image/png' : cover && /\.webp$/i.test(cover) ? 'image/webp' : 'image/jpeg'
         const coverLink = cover
             ? `\n    <link rel="http://opds-spec.org/image" href="${esc(cover)}" type="${coverType}"/>

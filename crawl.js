@@ -94,9 +94,9 @@ function epNumberOf(key) {
  * 上传一个 CBZ 到 Hugging Face。
  * 用单文件独立进程（python3 upload_one.py），避免长时间占用内存。
  */
-function uploadToHF(localPath, slug) {
+function uploadToHF(localPath, key) {
     const fname = path.basename(localPath)
-    const rel = `library/${slug}/${fname}`
+    const rel = `library/${key}/${fname}`
     try {
         execFileSync('python3', [path.join(ROOT, 'upload_one.py'), localPath, rel], {
             stdio: 'pipe',
@@ -337,7 +337,7 @@ async function main() {
                     st.coverFile = fname
                     log(`    封面已保存 (${(img.data.length / 1024).toFixed(0)}KB)`)
                     if (UPLOAD) {
-                        const rel = uploadToHF(tmp, slug)
+                        const rel = uploadToHF(tmp, stateKey)
                         if (rel) {
                             try { fs.unlinkSync(tmp) } catch (e) {}
                         }
@@ -403,7 +403,7 @@ async function main() {
                 fs.writeFileSync(out, cbz)
 
                 if (UPLOAD) {
-                    const rel = uploadToHF(out, bookSlug(stateKey))
+                    const rel = uploadToHF(out, stateKey)
                     if (!rel) {
                         log(`    ✗ ${fname} 上传失败，保留本地文件`)
                         continue
