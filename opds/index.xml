@@ -3,7 +3,7 @@
       xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:00017568-1071-5188-ad32-f6f3e6c82568</id>
   <title>我的漫画库</title>
-  <updated>2026-11-18T11:06:48Z</updated>
+  <updated>2026-11-18T11:14:21Z</updated>
   <author><name>comic-library</name></author>
   <link rel="self" href="https://xwll723.github.io/comic-library/opds/index.xml"
         type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
@@ -12,8 +12,8 @@
   <entry>
     <title>我独自升级</title>
     <id>urn:uuid:47fc43ec-e9e0-5447-a731-eceba96ce23b</id>
-    <updated>2026-11-18T11:06:48Z</updated>
-    <content type="text">1 章</content>
+    <updated>2026-11-18T11:14:21Z</updated>
+    <content type="text">6 章</content>
     <link rel="http://opds-spec.org/image" href="https://xwll723.github.io/comic-library/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/cover.jpg" type="image/jpeg"/>
     <link rel="http://opds-spec.org/image/thumbnail" href="https://xwll723.github.io/comic-library/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/cover.jpg" type="image/jpeg"/>
     <link rel="subsection" href="https://xwll723.github.io/comic-library/opds/bfb6b24277b.xml"
@@ -22,8 +22,8 @@
   <entry>
     <title>星STAR</title>
     <id>urn:uuid:80b2c671-69fe-55c5-a628-83ab89a8e4e9</id>
-    <updated>2026-11-18T11:06:48Z</updated>
-    <content type="text">3 章</content>
+    <updated>2026-11-18T11:14:21Z</updated>
+    <content type="text">8 章</content>
     <link rel="http://opds-spec.org/image" href="https://xwll723.github.io/comic-library/library/%E6%98%9Fstar/cover.jpg" type="image/jpeg"/>
     <link rel="http://opds-spec.org/image/thumbnail" href="https://xwll723.github.io/comic-library/library/%E6%98%9Fstar/cover.jpg" type="image/jpeg"/>
     <link rel="subsection" href="https://xwll723.github.io/comic-library/opds/b55645bef54.xml"
@@ -32,7 +32,7 @@
   <entry>
     <title>超能立方</title>
     <id>urn:uuid:ef4c7a1f-b415-59ad-af8a-ff7b1b59b6de</id>
-    <updated>2026-11-18T11:06:48Z</updated>
+    <updated>2026-11-18T11:14:21Z</updated>
     <content type="text">5 章</content>
     <link rel="http://opds-spec.org/image" href="https://xwll723.github.io/comic-library/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/cover.webp" type="image/webp"/>
     <link rel="http://opds-spec.org/image/thumbnail" href="https://xwll723.github.io/comic-library/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/cover.webp" type="image/webp"/>
