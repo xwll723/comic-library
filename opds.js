@@ -137,7 +137,8 @@ function build() {
                     return n !== null && num !== null && n === num
                 })
                 const title = match || f.replace(/\.cbz$/i, '')
-                const updated = new Date(fs.statSync(path.join(LIB, b.key, f)).mtime).toISOString().replace(/\.\d+Z$/, 'Z')
+                // CBZ 存在 HF，本地没有文件，用当前时间做 updated
+                const updated = now()
                 return `  <entry>
     <title>${esc(title)}</title>
     <id>urn:uuid:${uuidFor(b.key + '/' + f)}</id>

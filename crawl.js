@@ -86,8 +86,10 @@ function uploadToHF(localPath) {
         })
         return rel
     } catch (e) {
-        const msg = String((e.stderr || e.message || '')).slice(0, 120)
-        log(`    上传失败: ${msg}`)
+        const raw = String((e.stderr || '') + (e.message || ''))
+        // 取最后几行，通常才是真正的错误
+        const tail = raw.trim().split('\n').slice(-4).join(' | ')
+        log(`    上传失败: ${tail}`)
         return null
     }
 }
