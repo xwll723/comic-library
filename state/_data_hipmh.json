@@ -1,5 +1,5 @@
 {
-  "api_host_ok": "https://hipapi1.s3file.top",
+  "api_host_ok": "https://hipapi.s3file.top",
   "hidmap_bTo2MDI": {
     "超能立方 第001話：神秘立方体": "bTo2MDItYzoyMjEyMA-NjAyOjEuMDA",
     "超能立方 第002話：立方之谜": "bTo2MDItYzoyMjEyMg-NjAyOjIuMDA",
@@ -332,8 +332,8 @@
   "cover_bTo2MDI": "https://cover.s3imgs.top/kk/vertical/chao-neng-li-fang-596-Y2hhby1uZW5nLWxpLWZhbmctNTk2.webp",
   "line_pick_line1": {
     "key": "line2",
-    "ts": 1795000433374,
-    "t1": 1714,
-    "t2": 406
+    "ts": 1795057092139,
+    "t1": 2211,
+    "t2": 163
   }
 }

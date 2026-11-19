@@ -3,7 +3,7 @@
       xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:ef4c7a1f-b415-59ad-af8a-ff7b1b59b6de</id>
   <title>超能立方</title>
-  <updated>2026-11-18T13:50:34Z</updated>
+  <updated>2026-11-19T03:26:17Z</updated>
   <author><name>嬉皮漫畫</name></author>
   <link rel="self" href="https://xwll723.github.io/comic-library/opds/b8315b55610.xml"
         type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
@@ -14,7 +14,7 @@
   <entry>
     <title>超能立方 第001話：神秘立方体</title>
     <id>urn:uuid:ca9fee55-42d8-5a4a-aadd-100044491f8a</id>
-    <updated>2026-11-18T13:50:34Z</updated>
+    <updated>2026-11-19T03:26:17Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0001.cbz"
           type="application/zip"/>
@@ -28,7 +28,7 @@
   <entry>
     <title>超能立方 第002話：立方之谜</title>
     <id>urn:uuid:f6cafb8f-da23-52b5-a56f-7cd62f667945</id>
-    <updated>2026-11-18T13:50:34Z</updated>
+    <updated>2026-11-19T03:26:17Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0002.cbz"
           type="application/zip"/>
@@ -42,7 +42,7 @@
   <entry>
     <title>超能立方 第003話：尴尬</title>
     <id>urn:uuid:fa3588f9-ab86-5ee9-a112-5ece236b39a1</id>
-    <updated>2026-11-18T13:50:34Z</updated>
+    <updated>2026-11-19T03:26:17Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0003.cbz"
           type="application/zip"/>
@@ -56,7 +56,7 @@
   <entry>
     <title>超能立方 第004話：成为世界之王？</title>
     <id>urn:uuid:1f72e3d0-0760-59bb-afaa-02f1909f39a5</id>
-    <updated>2026-11-18T13:50:34Z</updated>
+    <updated>2026-11-19T03:26:17Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0004.cbz"
           type="application/zip"/>
@@ -70,7 +70,7 @@
   <entry>
     <title>超能立方 第005話：融合</title>
     <id>urn:uuid:09e99a03-fe4c-50a9-a436-9fca14fda79d</id>
-    <updated>2026-11-18T13:50:34Z</updated>
+    <updated>2026-11-19T03:26:17Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0005.cbz"
           type="application/zip"/>
@@ -79,6 +79,1448 @@
           type="application/vnd.comicbook+zip"/>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0005.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第006話：崭新的人生</title>
+    <id>urn:uuid:06cf8d84-71f4-57b9-ab35-64a94f881c82</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0006.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0006.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0006.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第007話：一雪前耻</title>
+    <id>urn:uuid:2ec899d9-99ea-5563-acc5-f9875410ddfa</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0007.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0007.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0007.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第008話：好勇斗狠</title>
+    <id>urn:uuid:7790d59e-79a9-545c-af6e-d13dd08cd8ec</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0008.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0008.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0008.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第009話：说好的单挑呢！</title>
+    <id>urn:uuid:838a2506-ba45-593a-a5f9-303e2ba1a460</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0009.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0009.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0009.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第010話：生死看淡，不服就干</title>
+    <id>urn:uuid:ead8403b-afd6-54aa-ae47-2aefb078e845</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0010.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0010.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0010.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第011話：全面击溃</title>
+    <id>urn:uuid:fa9fc8cc-f9da-5db3-a25f-f008436610a8</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0011.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0011.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0011.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第012話：探险之旅</title>
+    <id>urn:uuid:609e6cde-5715-5047-a346-9b4126328256</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0012.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0012.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0012.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第013話：石窟探险</title>
+    <id>urn:uuid:8afaf10a-3c77-5a07-a1b2-023f9c62f18d</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0013.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0013.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0013.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第014話：玩蛇？</title>
+    <id>urn:uuid:dba0c817-573d-5cac-af14-eabcff6a03f2</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0014.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0014.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0014.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第015話：融合之后的变化</title>
+    <id>urn:uuid:e4c7b133-9ca4-5962-af72-a1f1c039bf43</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0015.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0015.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0015.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第016話：绑架</title>
+    <id>urn:uuid:b78a5623-7781-5018-af6c-d3c7086b6874</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0016.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0016.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0016.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第017話：天外有天</title>
+    <id>urn:uuid:59bbdba2-9ceb-5050-a2cf-81d9baead8d0</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0017.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0017.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0017.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第018話：激战</title>
+    <id>urn:uuid:cc2d2d17-f3c3-5407-abbd-3f935472028d</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0018.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0018.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0018.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第019話：飞刀与铁锤的较量</title>
+    <id>urn:uuid:f7374644-926c-5555-a699-d96aee0bce44</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0019.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0019.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0019.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第021話：女神经病？</title>
+    <id>urn:uuid:525805ec-2490-5dcd-a525-cb79cbd56330</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0021.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0021.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0021.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第022話：趁你病，要你命</title>
+    <id>urn:uuid:1b3b24b6-e9a3-5015-a11c-3c2b3f814705</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0022.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0022.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0022.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第023話：颜值越高，武功越强</title>
+    <id>urn:uuid:92234c80-8c1e-538d-ac2a-335d961efdde</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0023.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0023.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0023.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第024話：初战符法</title>
+    <id>urn:uuid:33f27381-4238-53de-a8f1-ac17112ae833</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0024.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0024.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0024.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第025話：杀手锏？</title>
+    <id>urn:uuid:2c0475f3-e8b0-527f-a970-ed121d87bcb8</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0025.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0025.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0025.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第026話：濒死</title>
+    <id>urn:uuid:31b93478-16c8-5959-a2f3-8bb1d6fca8e4</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0026.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0026.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0026.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第027話：聚散离合</title>
+    <id>urn:uuid:5970f2c4-b687-5277-a625-42285cbb65b1</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0027.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0027.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0027.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第028話：里世界</title>
+    <id>urn:uuid:367a895e-d997-5722-ab61-ba83f489d356</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0028.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0028.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0028.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第029話：赌场较技</title>
+    <id>urn:uuid:84e045f7-b757-56db-a432-40e34d1c4208</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0029.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0029.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0029.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第030話：选秀比赛？</title>
+    <id>urn:uuid:f90b81ae-50ff-5727-a5d8-c29d4b113978</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0030.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0030.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0030.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第031話：巨大的挑战</title>
+    <id>urn:uuid:cf3db385-cd20-5b97-abed-89935487876f</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0031.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0031.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0031.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第032話：困兽之斗</title>
+    <id>urn:uuid:25fc851b-93e2-53da-ac9c-c9955e3ff2fb</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0032.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0032.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0032.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第034話：力量才是秩序</title>
+    <id>urn:uuid:bc8b8b14-f8ee-5271-a313-1d108dc01b5d</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0034.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0034.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0034.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第035話：曝光？</title>
+    <id>urn:uuid:dc6081b2-c76e-512a-abde-848e38c4f311</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0035.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0035.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0035.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第036話：都是土鸡瓦狗</title>
+    <id>urn:uuid:96b681ac-1bb3-55c8-a7eb-5ad0aeb2fc42</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0036.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0036.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0036.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第037話：逃跑计划</title>
+    <id>urn:uuid:8693744d-9af7-56cf-a80f-50dcd563d7d6</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0037.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0037.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0037.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第038話：高手来了</title>
+    <id>urn:uuid:c550224c-707c-5b13-a9fb-e575287a1194</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0038.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0038.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0038.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第039話：捣毁</title>
+    <id>urn:uuid:88cb4b5b-f51d-5c14-ac46-eab63c230452</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0039.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0039.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0039.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第040話：黄雀在后</title>
+    <id>urn:uuid:893c36ed-0cb7-5f61-a5f8-4a4675df0d59</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0040.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0040.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0040.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第041話：逃跑计划？</title>
+    <id>urn:uuid:52533041-f993-542a-acdd-a0932548c6a2</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0041.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0041.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0041.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第042話：极限反击</title>
+    <id>urn:uuid:43cc834b-1107-562e-a0fa-7eadcca431d8</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0042.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0042.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0042.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第043話：加入组织？</title>
+    <id>urn:uuid:84322f34-0b77-592c-ab2e-da15eb3f6152</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0043.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0043.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0043.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第044話：比赛测试</title>
+    <id>urn:uuid:2674944c-276d-51d5-ad68-0d254c090cb7</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0044.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0044.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0044.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第045話：大驾光临</title>
+    <id>urn:uuid:90bf40ae-bf82-5e8a-a96a-5e0997124bab</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0045.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0045.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0045.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第046話：赛前分析</title>
+    <id>urn:uuid:66d5e8fc-e131-503b-a003-48e55fa31d44</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0046.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0046.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0046.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第047話：冤家路窄</title>
+    <id>urn:uuid:153d7f13-3f28-5ca1-a973-439300fc371f</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0047.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0047.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0047.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第048話：算算旧账</title>
+    <id>urn:uuid:79cd3d43-758f-50a1-a118-2012d7ec4951</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0048.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0048.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0048.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第049話：最弱队长</title>
+    <id>urn:uuid:ff1e9ad2-91f4-541a-a744-1cbf0653ab84</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0049.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0049.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0049.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第050話：出来单挑</title>
+    <id>urn:uuid:d68e6230-83d9-553e-a81d-c67236544672</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0050.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0050.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0050.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第051話：不够打</title>
+    <id>urn:uuid:aa806c08-20f8-5ba9-a306-05cc1cfed320</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0051.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0051.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0051.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第052話：掉包</title>
+    <id>urn:uuid:d07a9c88-b602-56c6-ade7-dd845203b125</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0052.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0052.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0052.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第053話：武器</title>
+    <id>urn:uuid:aa939a09-5954-5121-a765-f766fb55fabb</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0053.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0053.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0053.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第054話：求救</title>
+    <id>urn:uuid:7d08ae6a-a289-5893-a1a2-28c00a7772a5</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0054.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0054.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0054.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第055話：反追捕</title>
+    <id>urn:uuid:e1ed5d47-d8cb-5058-a5a7-b9743deb5e77</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0055.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0055.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0055.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第056話：围观</title>
+    <id>urn:uuid:f3f73d64-08a8-5e99-a259-145f97a669c3</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0056.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0056.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0056.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第057話：黄雀在后</title>
+    <id>urn:uuid:e3af7068-682a-5798-a9e5-c6ce843a0623</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0057.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0057.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0057.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第058話：英雄救美？</title>
+    <id>urn:uuid:b4b773fd-2c84-549a-a2e9-ed5fd09dada6</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0058.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0058.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0058.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第059話：本质</title>
+    <id>urn:uuid:8d9c1d9a-369a-5cc7-abfe-bbbe49ce7eb3</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0059.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0059.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0059.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第060話：道</title>
+    <id>urn:uuid:56580ad7-25d3-5cc9-aa55-d12a7d567443</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0060.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0060.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0060.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第061話：邪骨六煞队</title>
+    <id>urn:uuid:4cffb96a-cc91-5d41-ab90-e4dc80a859a8</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0061.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0061.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0061.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第062話：调虎离山？</title>
+    <id>urn:uuid:bc56deac-efd4-5328-ae4d-5e66ce58a32e</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0062.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0062.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0062.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第063話：A级武者的秘密</title>
+    <id>urn:uuid:7d6d278d-6cd8-51d5-a36f-e9c8db6f00e3</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0063.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0063.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0063.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第064話：道元会赌局</title>
+    <id>urn:uuid:ae6df2cb-0699-5601-a757-6851ca1fb390</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0064.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0064.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0064.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第065話：解围</title>
+    <id>urn:uuid:047492d8-8eec-55cd-a1cb-51cb926e2dda</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0065.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0065.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0065.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第066話：阵法宗师</title>
+    <id>urn:uuid:9fc5c607-7e53-55d3-a4b4-953e00bae2dc</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0066.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0066.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0066.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第067話：武者暴走</title>
+    <id>urn:uuid:6b72d435-4e0b-59a6-acbb-966a1a0d48c2</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0067.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0067.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0067.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第068話：背水一战01</title>
+    <id>urn:uuid:a6a44317-2d32-5d77-ac53-e8238b8bb4d1</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0068.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0068.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0068.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第070話：守护</title>
+    <id>urn:uuid:9cf17198-b86d-59a0-aff6-1e576fb7af7b</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0070.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0070.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0070.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第072話：退赛？</title>
+    <id>urn:uuid:79411b3e-ac4f-5e0f-a663-590b5eec17c8</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0072.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0072.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0072.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第073話：家族利益</title>
+    <id>urn:uuid:de8764ab-8200-5bdd-a594-d1f0cd773385</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0073.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0073.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0073.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第074話：A级武者</title>
+    <id>urn:uuid:abda02a9-0ee7-5d6c-a66a-9510d241bc3c</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0074.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0074.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0074.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第075話：番外 天级功法</title>
+    <id>urn:uuid:8d5bd43c-cf93-5a95-ad42-a52ede18b36f</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0075.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0075.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0075.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第077話：鉴宝测试</title>
+    <id>urn:uuid:9c38269e-67e5-557d-a1a3-a9cc2cad7437</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0077.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0077.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0077.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第079話：怒闯杀手组织</title>
+    <id>urn:uuid:72ea704d-18f2-534c-a2c0-4e48af4c3889</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0079.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0079.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0079.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第080話：幕后老板</title>
+    <id>urn:uuid:4db5cc6c-564f-5d20-a212-8def924ac014</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0080.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0080.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0080.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第081話：战局逆转</title>
+    <id>urn:uuid:ab3d7868-ebfd-51ff-ad7d-901e495f2621</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0081.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0081.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0081.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第082話：武器修复</title>
+    <id>urn:uuid:575b9711-5b66-5060-a230-5b8044a61a4b</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0082.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0082.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0082.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第083話：勇闯禁地</title>
+    <id>urn:uuid:99d9376c-52e4-511c-ac10-148f1bf71764</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0083.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0083.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0083.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第084話：特控组出动</title>
+    <id>urn:uuid:bb60fa31-8701-57e6-a4bb-e87f7970eee0</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0084.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0084.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0084.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第085話：暗算</title>
+    <id>urn:uuid:a0338968-3455-551d-a4cd-e22f3b374f37</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0085.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0085.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0085.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第086話：使命</title>
+    <id>urn:uuid:66c43d55-4b7f-5098-a635-0ffca91aafd5</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0086.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0086.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0086.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第087話：地表最强小队参上！</title>
+    <id>urn:uuid:67064dbf-a1a8-5cf7-a149-d4aa61bd19ce</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0087.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0087.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0087.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第088話：神秘法器</title>
+    <id>urn:uuid:fd38a5db-ba0d-5a9c-af7e-88d43c306e8b</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0088.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0088.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0088.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第089話：神秘之地</title>
+    <id>urn:uuid:d1f78f05-96d5-5a7a-a412-a36bb92e5f06</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0089.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0089.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0089.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第090話：发现敌人？</title>
+    <id>urn:uuid:3760ebe9-563f-596e-a4bc-244ae40ad88f</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0090.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0090.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0090.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第091話：武器炼化</title>
+    <id>urn:uuid:a6d4d361-fb1f-5080-aa7d-7a873d940bcc</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0091.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0091.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0091.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第092話：魇魔来袭！</title>
+    <id>urn:uuid:00f7e46f-b1b9-55cf-a8f0-1e9d482c2540</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0092.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0092.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0092.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第093話：霸气击杀！</title>
+    <id>urn:uuid:93939494-80d1-5e68-adc9-158a4daa6cc6</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0093.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0093.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0093.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第094話：灭杀群兽</title>
+    <id>urn:uuid:972ab144-ca47-5a4e-a1ee-a973ee857337</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0094.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0094.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0094.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第095話：超A级的存在</title>
+    <id>urn:uuid:987f2f9e-f34c-53f3-a94e-a6c841c99fc5</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0095.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0095.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0095.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第096話：泰坦之躯</title>
+    <id>urn:uuid:c0ca0c04-780e-5051-a5d0-c1a4e64a648f</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0096.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0096.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0096.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第097話：星级强者</title>
+    <id>urn:uuid:ccbc2c5e-8551-5637-a71b-5d5dd4aad9d5</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0097.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0097.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0097.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第098話：密道</title>
+    <id>urn:uuid:ddd7616f-854a-56da-af83-a41b68e31095</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0098.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0098.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0098.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第099話：魔神来袭</title>
+    <id>urn:uuid:a3dd136d-78fa-517f-a9e5-10c4c52c2bfa</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0099.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0099.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0099.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第100話：融合</title>
+    <id>urn:uuid:dd26f5b1-4abd-5ac2-ac6b-6de0b8795e2a</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0100.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0100.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0100.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第101話：跟踪者</title>
+    <id>urn:uuid:9d645695-81f2-5b8f-a60b-b4067a54a072</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0101.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0101.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0101.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第102話：世界之门</title>
+    <id>urn:uuid:d302ebbc-83be-56de-a137-4db77612d34e</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0102.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0102.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0102.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第103話：暴殄者</title>
+    <id>urn:uuid:9bb483a6-955f-52df-a281-b4d6b1c0bed2</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0103.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0103.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0103.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第104話：暴力溶合</title>
+    <id>urn:uuid:5bcc9f0c-8ff1-598f-af9f-ddb1b1a9082e</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0104.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0104.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0104.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第105話：背叛者角斗场</title>
+    <id>urn:uuid:06091090-0274-58ba-a56b-bdf3a5f75e2d</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0105.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0105.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0105.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第106話：幻术攻击</title>
+    <id>urn:uuid:7b811642-ad6d-5958-a242-12271fc9ac9c</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0106.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0106.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0106.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第107話：番外 珍珑训练</title>
+    <id>urn:uuid:ee744096-4a8b-5609-a385-31cc45a1be5f</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0107.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0107.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0107.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第108話：灵魂之桥</title>
+    <id>urn:uuid:d7c41801-29a0-5bb4-a966-3cadaa38a32d</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0108.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0108.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0108.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第109話：钥匙</title>
+    <id>urn:uuid:177cb74a-dfe4-5183-a991-a22625672627</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0109.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0109.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0109.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第110話：夜先生</title>
+    <id>urn:uuid:2bd9284b-b7cc-5dd6-a7b2-709c64f690b7</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0110.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0110.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0110.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第111話：不会让你受伤了！</title>
+    <id>urn:uuid:b68217c6-0292-5867-a4bc-1956b4276d2d</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0111.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0111.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0111.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第113話：新“系统”？</title>
+    <id>urn:uuid:b77ec6ed-e074-5513-ac97-3f256a80c641</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0113.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0113.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0113.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第114話：要走的路！</title>
+    <id>urn:uuid:7abde29d-475c-5986-aeb4-e22a34e6f5a4</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0114.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0114.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0114.cbz"
+          type="application/x-cbr"/>
+  </entry>
+  <entry>
+    <title>超能立方 第115話：车票</title>
+    <id>urn:uuid:94d2bbbf-cbf4-54e1-a92e-7787b92168ff</id>
+    <updated>2026-11-19T03:26:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0115.cbz"
+          type="application/zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0115.cbz"
+          type="application/vnd.comicbook+zip"/>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://hf-proxy.xwll723825.workers.dev/file/library/%E8%B6%85%E8%83%BD%E7%AB%8B%E6%96%B9/0115.cbz"
           type="application/x-cbr"/>
   </entry>
 </feed>
