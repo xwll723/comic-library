@@ -3,7 +3,7 @@
       xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:47fc43ec-e9e0-5447-a731-eceba96ce23b</id>
   <title>我独自升级</title>
-  <updated>2026-11-26T04:22:15Z</updated>
+  <updated>2026-11-27T04:06:40Z</updated>
   <author><name>嬉皮漫畫</name></author>
   <link rel="self" href="https://xwll723.github.io/comic-library/opds/bfb6b24277b.xml"
         type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
@@ -14,7 +14,7 @@
   <entry>
     <title>我独自升级 第001話：序章 我独自升级</title>
     <id>urn:uuid:36678e7c-9870-557b-abbd-c5fb3cd6e2e7</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0001.cbz"
           type="application/zip"/>
@@ -28,7 +28,7 @@
   <entry>
     <title>我独自升级 第001話：序章 我独自升级</title>
     <id>urn:uuid:36678e7c-9870-557b-abbd-c5fb3cd6e2e7</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0001.cbz"
           type="application/zip"/>
@@ -42,7 +42,7 @@
   <entry>
     <title>我独自升级 第002話：最弱猎人</title>
     <id>urn:uuid:85ddae95-29b8-5ab5-a143-d66e56e0df59</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0002.cbz"
           type="application/zip"/>
@@ -56,7 +56,7 @@
   <entry>
     <title>我独自升级 第002話：最弱猎人</title>
     <id>urn:uuid:85ddae95-29b8-5ab5-a143-d66e56e0df59</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0002.cbz"
           type="application/zip"/>
@@ -70,7 +70,7 @@
   <entry>
     <title>我独自升级 第003話：双重地下城</title>
     <id>urn:uuid:1693e141-fe41-5861-a723-3b930a6a3ca4</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0003.cbz"
           type="application/zip"/>
@@ -84,7 +84,7 @@
   <entry>
     <title>我独自升级 第003話：双重地下城</title>
     <id>urn:uuid:1693e141-fe41-5861-a723-3b930a6a3ca4</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0003.cbz"
           type="application/zip"/>
@@ -98,7 +98,7 @@
   <entry>
     <title>我独自升级 第004話：石像</title>
     <id>urn:uuid:0df05495-dc7f-5c91-a938-2f3688f88b94</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0004.cbz"
           type="application/zip"/>
@@ -112,7 +112,7 @@
   <entry>
     <title>我独自升级 第004話：石像</title>
     <id>urn:uuid:0df05495-dc7f-5c91-a938-2f3688f88b94</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0004.cbz"
           type="application/zip"/>
@@ -126,7 +126,7 @@
   <entry>
     <title>我独自升级 第005話：“神”</title>
     <id>urn:uuid:04208665-121f-5a1b-a56e-85e52d219dfc</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0005.cbz"
           type="application/zip"/>
@@ -140,7 +140,7 @@
   <entry>
     <title>我独自升级 第005話：“神”</title>
     <id>urn:uuid:04208665-121f-5a1b-a56e-85e52d219dfc</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0005.cbz"
           type="application/zip"/>
@@ -154,7 +154,7 @@
   <entry>
     <title>我独自升级 第006話：地下城的规则</title>
     <id>urn:uuid:71195e71-21d7-5140-a860-783ed25d444a</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0006.cbz"
           type="application/zip"/>
@@ -168,7 +168,7 @@
   <entry>
     <title>我独自升级 第006話：地下城的规则</title>
     <id>urn:uuid:71195e71-21d7-5140-a860-783ed25d444a</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0006.cbz"
           type="application/zip"/>
@@ -182,7 +182,7 @@
   <entry>
     <title>我独自升级 第007話：恐惧</title>
     <id>urn:uuid:65663f7c-0731-5309-a3a7-9b7ce23188b8</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0007.cbz"
           type="application/zip"/>
@@ -196,7 +196,7 @@
   <entry>
     <title>我独自升级 第007話：恐惧</title>
     <id>urn:uuid:65663f7c-0731-5309-a3a7-9b7ce23188b8</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0007.cbz"
           type="application/zip"/>
@@ -210,7 +210,7 @@
   <entry>
     <title>我独自升级 第008話：生和死的线</title>
     <id>urn:uuid:183fcb1f-4616-5b12-a79b-73fe3d7f9f1a</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0008.cbz"
           type="application/zip"/>
@@ -224,7 +224,7 @@
   <entry>
     <title>我独自升级 第008話：生和死的线</title>
     <id>urn:uuid:183fcb1f-4616-5b12-a79b-73fe3d7f9f1a</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0008.cbz"
           type="application/zip"/>
@@ -238,7 +238,7 @@
   <entry>
     <title>我独自升级 第009話：生命的祭坛</title>
     <id>urn:uuid:f50e17fa-7595-5ebb-a259-d9b0f373ca20</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0009.cbz"
           type="application/zip"/>
@@ -252,7 +252,7 @@
   <entry>
     <title>我独自升级 第009話：生命的祭坛</title>
     <id>urn:uuid:f50e17fa-7595-5ebb-a259-d9b0f373ca20</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0009.cbz"
           type="application/zip"/>
@@ -266,7 +266,7 @@
   <entry>
     <title>我独自升级 第010話：出口打开了</title>
     <id>urn:uuid:e56e4b34-4e95-567c-a104-d77b380b815d</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0010.cbz"
           type="application/zip"/>
@@ -280,7 +280,7 @@
   <entry>
     <title>我独自升级 第010話：出口打开了</title>
     <id>urn:uuid:e56e4b34-4e95-567c-a104-d77b380b815d</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0010.cbz"
           type="application/zip"/>
@@ -294,7 +294,7 @@
   <entry>
     <title>我独自升级 第011話：成为【玩家】</title>
     <id>urn:uuid:a39d86d3-1812-5ca2-a726-06f133e07155</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0011.cbz"
           type="application/zip"/>
@@ -308,7 +308,7 @@
   <entry>
     <title>我独自升级 第011話：成为【玩家】</title>
     <id>urn:uuid:a39d86d3-1812-5ca2-a726-06f133e07155</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0011.cbz"
           type="application/zip"/>
@@ -322,7 +322,7 @@
   <entry>
     <title>我独自升级 第012話：系统惩罚</title>
     <id>urn:uuid:34d87419-6beb-5d95-a4ce-be9e0e27a947</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0012.cbz"
           type="application/zip"/>
@@ -336,7 +336,7 @@
   <entry>
     <title>我独自升级 第012話：系统惩罚</title>
     <id>urn:uuid:34d87419-6beb-5d95-a4ce-be9e0e27a947</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0012.cbz"
           type="application/zip"/>
@@ -350,7 +350,7 @@
   <entry>
     <title>我独自升级 第013話：弱者的二次觉醒</title>
     <id>urn:uuid:0ca281a8-e7de-5eca-a5b1-b663673fad6a</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0013.cbz"
           type="application/zip"/>
@@ -364,7 +364,7 @@
   <entry>
     <title>我独自升级 第013話：弱者的二次觉醒</title>
     <id>urn:uuid:0ca281a8-e7de-5eca-a5b1-b663673fad6a</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0013.cbz"
           type="application/zip"/>
@@ -378,7 +378,7 @@
   <entry>
     <title>我独自升级 第014話：钢牙狼人</title>
     <id>urn:uuid:9ff48cfd-c5d6-50a5-a986-d465fe1f2714</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0014.cbz"
           type="application/zip"/>
@@ -392,7 +392,7 @@
   <entry>
     <title>我独自升级 第014話：钢牙狼人</title>
     <id>urn:uuid:9ff48cfd-c5d6-50a5-a986-d465fe1f2714</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0014.cbz"
           type="application/zip"/>
@@ -406,7 +406,7 @@
   <entry>
     <title>我独自升级 第015話：屠狼者</title>
     <id>urn:uuid:4fe8e6a8-a292-5062-a182-2af8186ae055</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0015.cbz"
           type="application/zip"/>
@@ -420,7 +420,7 @@
   <entry>
     <title>我独自升级 第015話：屠狼者</title>
     <id>urn:uuid:4fe8e6a8-a292-5062-a182-2af8186ae055</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0015.cbz"
           type="application/zip"/>
@@ -434,7 +434,7 @@
   <entry>
     <title>我独自升级 第016話：沼泽的支配者</title>
     <id>urn:uuid:86078733-4c19-53d3-a355-a13a90ba054b</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0016.cbz"
           type="application/zip"/>
@@ -448,7 +448,7 @@
   <entry>
     <title>我独自升级 第016話：沼泽的支配者</title>
     <id>urn:uuid:86078733-4c19-53d3-a355-a13a90ba054b</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0016.cbz"
           type="application/zip"/>
@@ -462,7 +462,7 @@
   <entry>
     <title>我独自升级 第017話：消灭卡萨卡！</title>
     <id>urn:uuid:140a6f40-02db-5200-a358-3a6e1566419e</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0017.cbz"
           type="application/zip"/>
@@ -476,7 +476,7 @@
   <entry>
     <title>我独自升级 第017話：消灭卡萨卡！</title>
     <id>urn:uuid:140a6f40-02db-5200-a358-3a6e1566419e</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0017.cbz"
           type="application/zip"/>
@@ -490,7 +490,7 @@
   <entry>
     <title>我独自升级 第018話：一击！</title>
     <id>urn:uuid:cd65350f-8e88-5d91-a377-5dce61b28c09</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0018.cbz"
           type="application/zip"/>
@@ -504,7 +504,7 @@
   <entry>
     <title>我独自升级 第018話：一击！</title>
     <id>urn:uuid:cd65350f-8e88-5d91-a377-5dce61b28c09</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0018.cbz"
           type="application/zip"/>
@@ -518,7 +518,7 @@
   <entry>
     <title>我独自升级 第019話：小队！出发！</title>
     <id>urn:uuid:acaec057-ddd9-52e9-aef9-bf2fe724aef8</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0019.cbz"
           type="application/zip"/>
@@ -532,7 +532,7 @@
   <entry>
     <title>我独自升级 第019話：小队！出发！</title>
     <id>urn:uuid:acaec057-ddd9-52e9-aef9-bf2fe724aef8</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0019.cbz"
           type="application/zip"/>
@@ -546,7 +546,7 @@
   <entry>
     <title>我独自升级 第020話：不祥预感</title>
     <id>urn:uuid:e10cab72-2aa3-5671-a60c-5d238c399426</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0020.cbz"
           type="application/zip"/>
@@ -560,7 +560,7 @@
   <entry>
     <title>我独自升级 第020話：不祥预感</title>
     <id>urn:uuid:e10cab72-2aa3-5671-a60c-5d238c399426</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0020.cbz"
           type="application/zip"/>
@@ -574,7 +574,7 @@
   <entry>
     <title>我独自升级 第021話：队友的背叛</title>
     <id>urn:uuid:96e2f84f-f881-51b6-a67b-06654972c4a6</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0021.cbz"
           type="application/zip"/>
@@ -588,7 +588,7 @@
   <entry>
     <title>我独自升级 第021話：队友的背叛</title>
     <id>urn:uuid:96e2f84f-f881-51b6-a67b-06654972c4a6</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0021.cbz"
           type="application/zip"/>
@@ -602,7 +602,7 @@
   <entry>
     <title>我独自升级 第022話：真正的猎杀</title>
     <id>urn:uuid:539ab05c-793a-5526-a219-42e4365ce959</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0022.cbz"
           type="application/zip"/>
@@ -616,7 +616,7 @@
   <entry>
     <title>我独自升级 第022話：真正的猎杀</title>
     <id>urn:uuid:539ab05c-793a-5526-a219-42e4365ce959</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0022.cbz"
           type="application/zip"/>
@@ -630,7 +630,7 @@
   <entry>
     <title>我独自升级 第023話：击杀！</title>
     <id>urn:uuid:e905596f-78a7-50b4-a357-010d967269d9</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0023.cbz"
           type="application/zip"/>
@@ -644,7 +644,7 @@
   <entry>
     <title>我独自升级 第023話：击杀！</title>
     <id>urn:uuid:e905596f-78a7-50b4-a357-010d967269d9</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0023.cbz"
           type="application/zip"/>
@@ -658,7 +658,7 @@
   <entry>
     <title>我独自升级 第024話：紧急任务</title>
     <id>urn:uuid:2b009e9f-f823-5478-a7d9-b4d33005ff6e</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0024.cbz"
           type="application/zip"/>
@@ -672,7 +672,7 @@
   <entry>
     <title>我独自升级 第024話：紧急任务</title>
     <id>urn:uuid:2b009e9f-f823-5478-a7d9-b4d33005ff6e</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0024.cbz"
           type="application/zip"/>
@@ -686,7 +686,7 @@
   <entry>
     <title>我独自升级 第025話：一直升级！</title>
     <id>urn:uuid:bfab2cf5-c724-5c00-ae98-1f0eee312b2c</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0025.cbz"
           type="application/zip"/>
@@ -700,7 +700,7 @@
   <entry>
     <title>我独自升级 第025話：一直升级！</title>
     <id>urn:uuid:bfab2cf5-c724-5c00-ae98-1f0eee312b2c</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0025.cbz"
           type="application/zip"/>
@@ -714,7 +714,7 @@
   <entry>
     <title>我独自升级 第026話：好处！</title>
     <id>urn:uuid:4ca877bd-a84e-556d-ab5e-e74d4b735a25</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0026.cbz"
           type="application/zip"/>
@@ -728,7 +728,7 @@
   <entry>
     <title>我独自升级 第026話：好处！</title>
     <id>urn:uuid:4ca877bd-a84e-556d-ab5e-e74d4b735a25</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0026.cbz"
           type="application/zip"/>
@@ -742,7 +742,7 @@
   <entry>
     <title>我独自升级 第027話：恶魔城的钥匙</title>
     <id>urn:uuid:e56dada0-15e1-55f3-a189-18720638c519</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0027.cbz"
           type="application/zip"/>
@@ -756,7 +756,7 @@
   <entry>
     <title>我独自升级 第027話：恶魔城的钥匙</title>
     <id>urn:uuid:e56dada0-15e1-55f3-a189-18720638c519</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0027.cbz"
           type="application/zip"/>
@@ -770,7 +770,7 @@
   <entry>
     <title>我独自升级 第028話：地狱的守门犬</title>
     <id>urn:uuid:84531091-a029-5819-ae4c-e43bca0a78c6</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0028.cbz"
           type="application/zip"/>
@@ -784,7 +784,7 @@
   <entry>
     <title>我独自升级 第028話：地狱的守门犬</title>
     <id>urn:uuid:84531091-a029-5819-ae4c-e43bca0a78c6</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0028.cbz"
           type="application/zip"/>
@@ -798,7 +798,7 @@
   <entry>
     <title>我独自升级 第029話：猎人姜浩天</title>
     <id>urn:uuid:3c30d628-b87e-5c94-a76f-2bbb2732c9a8</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0029.cbz"
           type="application/zip"/>
@@ -812,7 +812,7 @@
   <entry>
     <title>我独自升级 第029話：猎人姜浩天</title>
     <id>urn:uuid:3c30d628-b87e-5c94-a76f-2bbb2732c9a8</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0029.cbz"
           type="application/zip"/>
@@ -826,7 +826,7 @@
   <entry>
     <title>我独自升级 第030話：人和魔兽</title>
     <id>urn:uuid:ac75de20-60a4-512c-a55c-087ab46f6373</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0030.cbz"
           type="application/zip"/>
@@ -840,7 +840,7 @@
   <entry>
     <title>我独自升级 第030話：人和魔兽</title>
     <id>urn:uuid:ac75de20-60a4-512c-a55c-087ab46f6373</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0030.cbz"
           type="application/zip"/>
@@ -854,7 +854,7 @@
   <entry>
     <title>我独自升级 第031話：杀的欲望</title>
     <id>urn:uuid:00483f3c-8561-5206-adc9-422f908df205</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0031.cbz"
           type="application/zip"/>
@@ -868,7 +868,7 @@
   <entry>
     <title>我独自升级 第031話：杀的欲望</title>
     <id>urn:uuid:00483f3c-8561-5206-adc9-422f908df205</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0031.cbz"
           type="application/zip"/>
@@ -882,7 +882,7 @@
   <entry>
     <title>我独自升级 第032話：二次觉醒者？</title>
     <id>urn:uuid:630fdec2-43e7-545c-aea2-e4e187873ecd</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0032.cbz"
           type="application/zip"/>
@@ -896,7 +896,7 @@
   <entry>
     <title>我独自升级 第032話：二次觉醒者？</title>
     <id>urn:uuid:630fdec2-43e7-545c-aea2-e4e187873ecd</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0032.cbz"
           type="application/zip"/>
@@ -910,7 +910,7 @@
   <entry>
     <title>我独自升级 第033話：系统任务：消灭敌人</title>
     <id>urn:uuid:aaf0bfce-e7a5-5573-a4ec-ff0ac3e1dcdc</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0033.cbz"
           type="application/zip"/>
@@ -924,7 +924,7 @@
   <entry>
     <title>我独自升级 第033話：系统任务：消灭敌人</title>
     <id>urn:uuid:aaf0bfce-e7a5-5573-a4ec-ff0ac3e1dcdc</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0033.cbz"
           type="application/zip"/>
@@ -938,7 +938,7 @@
   <entry>
     <title>我独自升级 第034話：杀气技能</title>
     <id>urn:uuid:453b4ca6-40d3-5a12-a10f-73acfabe49c1</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0034.cbz"
           type="application/zip"/>
@@ -952,7 +952,7 @@
   <entry>
     <title>我独自升级 第034話：杀气技能</title>
     <id>urn:uuid:453b4ca6-40d3-5a12-a10f-73acfabe49c1</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0034.cbz"
           type="application/zip"/>
@@ -966,7 +966,7 @@
   <entry>
     <title>我独自升级 第035話：和黑暗一样强大</title>
     <id>urn:uuid:9383e580-dc26-5c6c-a769-007c9ac56af8</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0035.cbz"
           type="application/zip"/>
@@ -980,7 +980,7 @@
   <entry>
     <title>我独自升级 第035話：和黑暗一样强大</title>
     <id>urn:uuid:9383e580-dc26-5c6c-a769-007c9ac56af8</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0035.cbz"
           type="application/zip"/>
@@ -994,7 +994,7 @@
   <entry>
     <title>我独自升级 第036話：待遇优厚的组团</title>
     <id>urn:uuid:b1bc0cf8-0d3c-5ff7-a23a-c7c3489bc8fd</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0036.cbz"
           type="application/zip"/>
@@ -1008,7 +1008,7 @@
   <entry>
     <title>我独自升级 第036話：待遇优厚的组团</title>
     <id>urn:uuid:b1bc0cf8-0d3c-5ff7-a23a-c7c3489bc8fd</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0036.cbz"
           type="application/zip"/>
@@ -1022,7 +1022,7 @@
   <entry>
     <title>我独自升级 第037話：转职任务？</title>
     <id>urn:uuid:70244fe7-afa2-5416-a107-175dc4354ae5</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0037.cbz"
           type="application/zip"/>
@@ -1036,7 +1036,7 @@
   <entry>
     <title>我独自升级 第037話：转职任务？</title>
     <id>urn:uuid:70244fe7-afa2-5416-a107-175dc4354ae5</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0037.cbz"
           type="application/zip"/>
@@ -1050,7 +1050,7 @@
   <entry>
     <title>我独自升级 第038話：转职游戏</title>
     <id>urn:uuid:b82c083a-ddac-51a9-a6ea-d464db5169ae</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0038.cbz"
           type="application/zip"/>
@@ -1064,7 +1064,7 @@
   <entry>
     <title>我独自升级 第038話：转职游戏</title>
     <id>urn:uuid:b82c083a-ddac-51a9-a6ea-d464db5169ae</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0038.cbz"
           type="application/zip"/>
@@ -1078,7 +1078,7 @@
   <entry>
     <title>我独自升级 第039話：阴森气息</title>
     <id>urn:uuid:de035c4b-d209-508c-a85b-c79ed1baa602</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0039.cbz"
           type="application/zip"/>
@@ -1092,7 +1092,7 @@
   <entry>
     <title>我独自升级 第039話：阴森气息</title>
     <id>urn:uuid:de035c4b-d209-508c-a85b-c79ed1baa602</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0039.cbz"
           type="application/zip"/>
@@ -1106,7 +1106,7 @@
   <entry>
     <title>我独自升级 第040話：守护王座的骑士</title>
     <id>urn:uuid:97f4d5bc-677a-5e9d-a547-2d58addd0770</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0040.cbz"
           type="application/zip"/>
@@ -1120,7 +1120,7 @@
   <entry>
     <title>我独自升级 第040話：守护王座的骑士</title>
     <id>urn:uuid:97f4d5bc-677a-5e9d-a547-2d58addd0770</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0040.cbz"
           type="application/zip"/>
@@ -1134,7 +1134,7 @@
   <entry>
     <title>我独自升级 第041話：只能活一个！</title>
     <id>urn:uuid:a3537ab2-8bed-5475-a465-47d6766691be</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0041.cbz"
           type="application/zip"/>
@@ -1148,7 +1148,7 @@
   <entry>
     <title>我独自升级 第041話：只能活一个！</title>
     <id>urn:uuid:a3537ab2-8bed-5475-a465-47d6766691be</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0041.cbz"
           type="application/zip"/>
@@ -1162,7 +1162,7 @@
   <entry>
     <title>我独自升级 第042話：渴望</title>
     <id>urn:uuid:62f5c1cd-5be5-5695-a942-de0c84625923</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0042.cbz"
           type="application/zip"/>
@@ -1176,7 +1176,7 @@
   <entry>
     <title>我独自升级 第042話：渴望</title>
     <id>urn:uuid:62f5c1cd-5be5-5695-a942-de0c84625923</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0042.cbz"
           type="application/zip"/>
@@ -1190,7 +1190,7 @@
   <entry>
     <title>我独自升级 第043話：幸运</title>
     <id>urn:uuid:5f5b39c9-ef85-591e-ab89-3d2ffa57ee94</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0043.cbz"
           type="application/zip"/>
@@ -1204,7 +1204,7 @@
   <entry>
     <title>我独自升级 第043話：幸运</title>
     <id>urn:uuid:5f5b39c9-ef85-591e-ab89-3d2ffa57ee94</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0043.cbz"
           type="application/zip"/>
@@ -1218,7 +1218,7 @@
   <entry>
     <title>我独自升级 第044話：魔法师</title>
     <id>urn:uuid:84f42733-0c31-574d-a41d-1d7d9b91ae04</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0044.cbz"
           type="application/zip"/>
@@ -1232,7 +1232,7 @@
   <entry>
     <title>我独自升级 第044話：魔法师</title>
     <id>urn:uuid:84f42733-0c31-574d-a41d-1d7d9b91ae04</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0044.cbz"
           type="application/zip"/>
@@ -1246,7 +1246,7 @@
   <entry>
     <title>我独自升级 第045話：测试之房</title>
     <id>urn:uuid:13781b09-04a3-565f-a5c3-64005951f0e0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0045.cbz"
           type="application/zip"/>
@@ -1260,7 +1260,7 @@
   <entry>
     <title>我独自升级 第045話：测试之房</title>
     <id>urn:uuid:13781b09-04a3-565f-a5c3-64005951f0e0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0045.cbz"
           type="application/zip"/>
@@ -1274,7 +1274,7 @@
   <entry>
     <title>我独自升级 第046話：君王诞生！</title>
     <id>urn:uuid:ee3ff10d-6001-563d-a9f1-da8e7b9a4e4e</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0046.cbz"
           type="application/zip"/>
@@ -1288,7 +1288,7 @@
   <entry>
     <title>我独自升级 第046話：君王诞生！</title>
     <id>urn:uuid:ee3ff10d-6001-563d-a9f1-da8e7b9a4e4e</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0046.cbz"
           type="application/zip"/>
@@ -1302,7 +1302,7 @@
   <entry>
     <title>我独自升级 第047話：妹妹的同学</title>
     <id>urn:uuid:c2c93a48-4f98-5e65-a222-3b7ac073388c</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0047.cbz"
           type="application/zip"/>
@@ -1316,7 +1316,7 @@
   <entry>
     <title>我独自升级 第047話：妹妹的同学</title>
     <id>urn:uuid:c2c93a48-4f98-5e65-a222-3b7ac073388c</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0047.cbz"
           type="application/zip"/>
@@ -1330,7 +1330,7 @@
   <entry>
     <title>我独自升级 第048話：红色传送口</title>
     <id>urn:uuid:a2b64feb-3965-5836-a61d-9282c0642119</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0048.cbz"
           type="application/zip"/>
@@ -1344,7 +1344,7 @@
   <entry>
     <title>我独自升级 第048話：红色传送口</title>
     <id>urn:uuid:a2b64feb-3965-5836-a61d-9282c0642119</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0048.cbz"
           type="application/zip"/>
@@ -1358,7 +1358,7 @@
   <entry>
     <title>我独自升级 第049話：雪地白鬼</title>
     <id>urn:uuid:9718b03a-2cac-54ef-aaa9-dedfaed0b67b</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0049.cbz"
           type="application/zip"/>
@@ -1372,7 +1372,7 @@
   <entry>
     <title>我独自升级 第049話：雪地白鬼</title>
     <id>urn:uuid:9718b03a-2cac-54ef-aaa9-dedfaed0b67b</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0049.cbz"
           type="application/zip"/>
@@ -1386,7 +1386,7 @@
   <entry>
     <title>我独自升级 第050話：谁是累赘</title>
     <id>urn:uuid:73061c46-a9c6-505f-a51e-e65156b97b78</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0050.cbz"
           type="application/zip"/>
@@ -1400,7 +1400,7 @@
   <entry>
     <title>我独自升级 第050話：谁是累赘</title>
     <id>urn:uuid:73061c46-a9c6-505f-a51e-e65156b97b78</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0050.cbz"
           type="application/zip"/>
@@ -1414,7 +1414,7 @@
   <entry>
     <title>我独自升级 第051話：亡灵军团</title>
     <id>urn:uuid:7c181a55-bff3-5185-ab7c-b9cbd063c7c2</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0051.cbz"
           type="application/zip"/>
@@ -1428,7 +1428,7 @@
   <entry>
     <title>我独自升级 第051話：亡灵军团</title>
     <id>urn:uuid:7c181a55-bff3-5185-ab7c-b9cbd063c7c2</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0051.cbz"
           type="application/zip"/>
@@ -1442,7 +1442,7 @@
   <entry>
     <title>我独自升级 第052話：魔兽士兵</title>
     <id>urn:uuid:6b330749-d032-598a-aa5f-1c353d445868</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0052.cbz"
           type="application/zip"/>
@@ -1456,7 +1456,7 @@
   <entry>
     <title>我独自升级 第052話：魔兽士兵</title>
     <id>urn:uuid:6b330749-d032-598a-aa5f-1c353d445868</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0052.cbz"
           type="application/zip"/>
@@ -1470,7 +1470,7 @@
   <entry>
     <title>我独自升级 第053話：谁是废物</title>
     <id>urn:uuid:25de4127-87eb-5f60-aef6-59b79c1f4ae4</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0053.cbz"
           type="application/zip"/>
@@ -1484,7 +1484,7 @@
   <entry>
     <title>我独自升级 第053話：谁是废物</title>
     <id>urn:uuid:25de4127-87eb-5f60-aef6-59b79c1f4ae4</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0053.cbz"
           type="application/zip"/>
@@ -1498,7 +1498,7 @@
   <entry>
     <title>我独自升级 第054話：尽在掌握</title>
     <id>urn:uuid:01e27db7-c5d0-5879-ac42-ffe46514cb37</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0054.cbz"
           type="application/zip"/>
@@ -1512,7 +1512,7 @@
   <entry>
     <title>我独自升级 第054話：尽在掌握</title>
     <id>urn:uuid:01e27db7-c5d0-5879-ac42-ffe46514cb37</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0054.cbz"
           type="application/zip"/>
@@ -1526,7 +1526,7 @@
   <entry>
     <title>我独自升级 第055話：王者艾恩</title>
     <id>urn:uuid:e98d5dcb-ab05-5ec6-a410-c59afadd2ca3</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0055.cbz"
           type="application/zip"/>
@@ -1540,7 +1540,7 @@
   <entry>
     <title>我独自升级 第055話：王者艾恩</title>
     <id>urn:uuid:e98d5dcb-ab05-5ec6-a410-c59afadd2ca3</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0055.cbz"
           type="application/zip"/>
@@ -1554,7 +1554,7 @@
   <entry>
     <title>我独自升级 第056話：威胁我？</title>
     <id>urn:uuid:a5ef7ebf-3a9b-53d5-a920-4a023bdc2f56</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0056.cbz"
           type="application/zip"/>
@@ -1568,7 +1568,7 @@
   <entry>
     <title>我独自升级 第056話：威胁我？</title>
     <id>urn:uuid:a5ef7ebf-3a9b-53d5-a920-4a023bdc2f56</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0056.cbz"
           type="application/zip"/>
@@ -1582,7 +1582,7 @@
   <entry>
     <title>我独自升级 第057話：人型魔兽？</title>
     <id>urn:uuid:8cb9831c-0e11-5093-ad7a-5b79dfa41386</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0057.cbz"
           type="application/zip"/>
@@ -1596,7 +1596,7 @@
   <entry>
     <title>我独自升级 第057話：人型魔兽？</title>
     <id>urn:uuid:8cb9831c-0e11-5093-ad7a-5b79dfa41386</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0057.cbz"
           type="application/zip"/>
@@ -1610,7 +1610,7 @@
   <entry>
     <title>我独自升级 第058話：恶魔城</title>
     <id>urn:uuid:c43f4736-2214-52ff-ae44-5712188475e1</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0058.cbz"
           type="application/zip"/>
@@ -1624,7 +1624,7 @@
   <entry>
     <title>我独自升级 第058話：恶魔城</title>
     <id>urn:uuid:c43f4736-2214-52ff-ae44-5712188475e1</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0058.cbz"
           type="application/zip"/>
@@ -1638,7 +1638,7 @@
   <entry>
     <title>我独自升级 第059話：火神</title>
     <id>urn:uuid:32a6d1a3-ea8c-51d2-a3df-0aa22c355cfa</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0059.cbz"
           type="application/zip"/>
@@ -1652,7 +1652,7 @@
   <entry>
     <title>我独自升级 第059話：火神</title>
     <id>urn:uuid:32a6d1a3-ea8c-51d2-a3df-0aa22c355cfa</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0059.cbz"
           type="application/zip"/>
@@ -1666,7 +1666,7 @@
   <entry>
     <title>我独自升级 第060話：火神之死</title>
     <id>urn:uuid:f98f39e8-c54f-5359-aab6-1473efc62fae</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0060.cbz"
           type="application/zip"/>
@@ -1680,7 +1680,7 @@
   <entry>
     <title>我独自升级 第060話：火神之死</title>
     <id>urn:uuid:f98f39e8-c54f-5359-aab6-1473efc62fae</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0060.cbz"
           type="application/zip"/>
@@ -1694,7 +1694,7 @@
   <entry>
     <title>我独自升级 第061話：活死人之战</title>
     <id>urn:uuid:f22b2036-0c2f-5d62-a286-725f563b8599</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0061.cbz"
           type="application/zip"/>
@@ -1708,7 +1708,7 @@
   <entry>
     <title>我独自升级 第061話：活死人之战</title>
     <id>urn:uuid:f22b2036-0c2f-5d62-a286-725f563b8599</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0061.cbz"
           type="application/zip"/>
@@ -1722,7 +1722,7 @@
   <entry>
     <title>我独自升级 第062話：被诅咒的随机盒子</title>
     <id>urn:uuid:46f451f3-9eca-5e64-adb3-1bd604455616</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0062.cbz"
           type="application/zip"/>
@@ -1736,7 +1736,7 @@
   <entry>
     <title>我独自升级 第062話：被诅咒的随机盒子</title>
     <id>urn:uuid:46f451f3-9eca-5e64-adb3-1bd604455616</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0062.cbz"
           type="application/zip"/>
@@ -1750,7 +1750,7 @@
   <entry>
     <title>我独自升级 第063話：他是S级？！</title>
     <id>urn:uuid:17e06e6f-6f9e-5467-a62c-356813531eac</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0063.cbz"
           type="application/zip"/>
@@ -1764,7 +1764,7 @@
   <entry>
     <title>我独自升级 第063話：他是S级？！</title>
     <id>urn:uuid:17e06e6f-6f9e-5467-a62c-356813531eac</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0063.cbz"
           type="application/zip"/>
@@ -1778,7 +1778,7 @@
   <entry>
     <title>我独自升级 第064話：高处</title>
     <id>urn:uuid:c805e219-05eb-5b24-a9c8-1d843b28ac6f</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0064.cbz"
           type="application/zip"/>
@@ -1792,7 +1792,7 @@
   <entry>
     <title>我独自升级 第064話：高处</title>
     <id>urn:uuid:c805e219-05eb-5b24-a9c8-1d843b28ac6f</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0064.cbz"
           type="application/zip"/>
@@ -1806,7 +1806,7 @@
   <entry>
     <title>我独自升级 第065話：猎人的去处</title>
     <id>urn:uuid:d7f30d03-889f-560a-aa7e-ff456ae4db73</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0065.cbz"
           type="application/zip"/>
@@ -1820,7 +1820,7 @@
   <entry>
     <title>我独自升级 第065話：猎人的去处</title>
     <id>urn:uuid:d7f30d03-889f-560a-aa7e-ff456ae4db73</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0065.cbz"
           type="application/zip"/>
@@ -1834,7 +1834,7 @@
   <entry>
     <title>我独自升级 第066話：S级矿工</title>
     <id>urn:uuid:94d7e6cd-6f3e-545e-a5e3-dc15d1da8ac2</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0066.cbz"
           type="application/zip"/>
@@ -1848,7 +1848,7 @@
   <entry>
     <title>我独自升级 第066話：S级矿工</title>
     <id>urn:uuid:94d7e6cd-6f3e-545e-a5e3-dc15d1da8ac2</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0066.cbz"
           type="application/zip"/>
@@ -1862,7 +1862,7 @@
   <entry>
     <title>我独自升级 第067話：错觉吗？</title>
     <id>urn:uuid:c44369b4-78bb-5970-a19d-33f6edd8461c</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0067.cbz"
           type="application/zip"/>
@@ -1876,7 +1876,7 @@
   <entry>
     <title>我独自升级 第067話：错觉吗？</title>
     <id>urn:uuid:c44369b4-78bb-5970-a19d-33f6edd8461c</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0067.cbz"
           type="application/zip"/>
@@ -1890,7 +1890,7 @@
   <entry>
     <title>我独自升级 第068話：味道</title>
     <id>urn:uuid:56a7d985-d14b-5971-aac3-5fc469fa4229</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0068.cbz"
           type="application/zip"/>
@@ -1904,7 +1904,7 @@
   <entry>
     <title>我独自升级 第068話：味道</title>
     <id>urn:uuid:56a7d985-d14b-5971-aac3-5fc469fa4229</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0068.cbz"
           type="application/zip"/>
@@ -1918,7 +1918,7 @@
   <entry>
     <title>我独自升级 第069話：好闻味道的猎人</title>
     <id>urn:uuid:d69ea348-23ae-579e-aad6-000da11c43aa</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0069.cbz"
           type="application/zip"/>
@@ -1932,7 +1932,7 @@
   <entry>
     <title>我独自升级 第069話：好闻味道的猎人</title>
     <id>urn:uuid:d69ea348-23ae-579e-aad6-000da11c43aa</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0069.cbz"
           type="application/zip"/>
@@ -1946,7 +1946,7 @@
   <entry>
     <title>我独自升级 第070話：巨型兽人</title>
     <id>urn:uuid:3c055e0d-79b4-58de-ae06-790820b5bab8</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0070.cbz"
           type="application/zip"/>
@@ -1960,7 +1960,7 @@
   <entry>
     <title>我独自升级 第070話：巨型兽人</title>
     <id>urn:uuid:3c055e0d-79b4-58de-ae06-790820b5bab8</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0070.cbz"
           type="application/zip"/>
@@ -1974,7 +1974,7 @@
   <entry>
     <title>我独自升级 第071話：诅咒结界！</title>
     <id>urn:uuid:2b51eec0-3ece-52fa-a470-b83a5db7d7b0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0071.cbz"
           type="application/zip"/>
@@ -1988,7 +1988,7 @@
   <entry>
     <title>我独自升级 第071話：诅咒结界！</title>
     <id>urn:uuid:2b51eec0-3ece-52fa-a470-b83a5db7d7b0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0071.cbz"
           type="application/zip"/>
@@ -2002,7 +2002,7 @@
   <entry>
     <title>我独自升级 第072話：兽人大巫师！</title>
     <id>urn:uuid:12f8d7b5-06d7-5c17-a1ba-e006f017c2bf</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0072.cbz"
           type="application/zip"/>
@@ -2016,7 +2016,7 @@
   <entry>
     <title>我独自升级 第072話：兽人大巫师！</title>
     <id>urn:uuid:12f8d7b5-06d7-5c17-a1ba-e006f017c2bf</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0072.cbz"
           type="application/zip"/>
@@ -2030,7 +2030,7 @@
   <entry>
     <title>我独自升级 第073話：君王的召唤</title>
     <id>urn:uuid:0c320f0d-f2b9-5632-a981-1eade6e70de5</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0073.cbz"
           type="application/zip"/>
@@ -2044,7 +2044,7 @@
   <entry>
     <title>我独自升级 第073話：君王的召唤</title>
     <id>urn:uuid:0c320f0d-f2b9-5632-a981-1eade6e70de5</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0073.cbz"
           type="application/zip"/>
@@ -2058,7 +2058,7 @@
   <entry>
     <title>我独自升级 第074話：君王领域</title>
     <id>urn:uuid:26f0c817-40af-54b3-ae32-6ad4ea4fa421</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0074.cbz"
           type="application/zip"/>
@@ -2072,7 +2072,7 @@
   <entry>
     <title>我独自升级 第074話：君王领域</title>
     <id>urn:uuid:26f0c817-40af-54b3-ae32-6ad4ea4fa421</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0074.cbz"
           type="application/zip"/>
@@ -2086,7 +2086,7 @@
   <entry>
     <title>我独自升级 第075話：巫师之歌</title>
     <id>urn:uuid:a8e15aa1-dfad-5fa4-ae01-5e77481f8d68</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0075.cbz"
           type="application/zip"/>
@@ -2100,7 +2100,7 @@
   <entry>
     <title>我独自升级 第075話：巫师之歌</title>
     <id>urn:uuid:a8e15aa1-dfad-5fa4-ae01-5e77481f8d68</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0075.cbz"
           type="application/zip"/>
@@ -2114,7 +2114,7 @@
   <entry>
     <title>我独自升级 第076話：巫师“尖牙”</title>
     <id>urn:uuid:53336f8f-6577-5de9-a990-38071e9795f7</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0076.cbz"
           type="application/zip"/>
@@ -2128,7 +2128,7 @@
   <entry>
     <title>我独自升级 第076話：巫师“尖牙”</title>
     <id>urn:uuid:53336f8f-6577-5de9-a990-38071e9795f7</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0076.cbz"
           type="application/zip"/>
@@ -2142,7 +2142,7 @@
   <entry>
     <title>我独自升级 第077話：明星猎人</title>
     <id>urn:uuid:1cd60569-8168-529f-a91b-008ffb8ba70e</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0077.cbz"
           type="application/zip"/>
@@ -2156,7 +2156,7 @@
   <entry>
     <title>我独自升级 第077話：明星猎人</title>
     <id>urn:uuid:1cd60569-8168-529f-a91b-008ffb8ba70e</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0077.cbz"
           type="application/zip"/>
@@ -2170,7 +2170,7 @@
   <entry>
     <title>我独自升级 第078話：S级猎人证</title>
     <id>urn:uuid:0e377c77-2c76-5474-a55f-23258e9dc1e4</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0078.cbz"
           type="application/zip"/>
@@ -2184,7 +2184,7 @@
   <entry>
     <title>我独自升级 第078話：S级猎人证</title>
     <id>urn:uuid:0e377c77-2c76-5474-a55f-23258e9dc1e4</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0078.cbz"
           type="application/zip"/>
@@ -2198,7 +2198,7 @@
   <entry>
     <title>我独自升级 第079話：成长型猎人</title>
     <id>urn:uuid:c2a27db3-dc5f-51f3-a22e-b07e84d961bb</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0079.cbz"
           type="application/zip"/>
@@ -2212,7 +2212,7 @@
   <entry>
     <title>我独自升级 第079話：成长型猎人</title>
     <id>urn:uuid:c2a27db3-dc5f-51f3-a22e-b07e84d961bb</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0079.cbz"
           type="application/zip"/>
@@ -2226,7 +2226,7 @@
   <entry>
     <title>我独自升级 第080話：记者的骚扰</title>
     <id>urn:uuid:b2c1a8b1-0c4b-59ab-a599-a78579c1b9e0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0080.cbz"
           type="application/zip"/>
@@ -2240,7 +2240,7 @@
   <entry>
     <title>我独自升级 第080話：记者的骚扰</title>
     <id>urn:uuid:b2c1a8b1-0c4b-59ab-a599-a78579c1b9e0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0080.cbz"
           type="application/zip"/>
@@ -2254,7 +2254,7 @@
   <entry>
     <title>我独自升级 第081話：上岸的蚂蚁</title>
     <id>urn:uuid:c0a92b53-7078-564c-a4ff-bbd53cc86511</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0081.cbz"
           type="application/zip"/>
@@ -2268,7 +2268,7 @@
   <entry>
     <title>我独自升级 第081話：上岸的蚂蚁</title>
     <id>urn:uuid:c0a92b53-7078-564c-a4ff-bbd53cc86511</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0081.cbz"
           type="application/zip"/>
@@ -2282,7 +2282,7 @@
   <entry>
     <title>我独自升级 第082話：恶魔贵族</title>
     <id>urn:uuid:bdd3d151-926c-5917-a562-18f9c1569b47</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0082.cbz"
           type="application/zip"/>
@@ -2296,7 +2296,7 @@
   <entry>
     <title>我独自升级 第082話：恶魔贵族</title>
     <id>urn:uuid:bdd3d151-926c-5917-a562-18f9c1569b47</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0082.cbz"
           type="application/zip"/>
@@ -2310,7 +2310,7 @@
   <entry>
     <title>我独自升级 第083話：恶魔女艾西尔</title>
     <id>urn:uuid:2ef91041-c187-5aff-a08f-1b80c25c2f98</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0083.cbz"
           type="application/zip"/>
@@ -2324,7 +2324,7 @@
   <entry>
     <title>我独自升级 第083話：恶魔女艾西尔</title>
     <id>urn:uuid:2ef91041-c187-5aff-a08f-1b80c25c2f98</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0083.cbz"
           type="application/zip"/>
@@ -2338,7 +2338,7 @@
   <entry>
     <title>我独自升级 第084話：借用恶魔女</title>
     <id>urn:uuid:98bc7eaf-64d6-5f3c-a33e-43d8e18a8f8c</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0084.cbz"
           type="application/zip"/>
@@ -2352,7 +2352,7 @@
   <entry>
     <title>我独自升级 第084話：借用恶魔女</title>
     <id>urn:uuid:98bc7eaf-64d6-5f3c-a33e-43d8e18a8f8c</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0084.cbz"
           type="application/zip"/>
@@ -2366,7 +2366,7 @@
   <entry>
     <title>我独自升级 第085話：影子升级！</title>
     <id>urn:uuid:4af4db8e-70a7-573f-ac2d-5561ccb1b922</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0085.cbz"
           type="application/zip"/>
@@ -2380,7 +2380,7 @@
   <entry>
     <title>我独自升级 第085話：影子升级！</title>
     <id>urn:uuid:4af4db8e-70a7-573f-ac2d-5561ccb1b922</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0085.cbz"
           type="application/zip"/>
@@ -2394,7 +2394,7 @@
   <entry>
     <title>我独自升级 第086話：恶魔王巴兰</title>
     <id>urn:uuid:cd5e758e-88d0-57eb-af48-53fbbf34dcca</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0086.cbz"
           type="application/zip"/>
@@ -2408,7 +2408,7 @@
   <entry>
     <title>我独自升级 第086話：恶魔王巴兰</title>
     <id>urn:uuid:cd5e758e-88d0-57eb-af48-53fbbf34dcca</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0086.cbz"
           type="application/zip"/>
@@ -2422,7 +2422,7 @@
   <entry>
     <title>我独自升级 第087話：地狱军</title>
     <id>urn:uuid:2163be04-d964-5250-a220-515638708a98</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0087.cbz"
           type="application/zip"/>
@@ -2436,7 +2436,7 @@
   <entry>
     <title>我独自升级 第087話：地狱军</title>
     <id>urn:uuid:2163be04-d964-5250-a220-515638708a98</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0087.cbz"
           type="application/zip"/>
@@ -2450,7 +2450,7 @@
   <entry>
     <title>我独自升级 第088話：我与恶魔王</title>
     <id>urn:uuid:6957b320-2003-56d8-a2e6-1ecba94197c0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0088.cbz"
           type="application/zip"/>
@@ -2464,7 +2464,7 @@
   <entry>
     <title>我独自升级 第088話：我与恶魔王</title>
     <id>urn:uuid:6957b320-2003-56d8-a2e6-1ecba94197c0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0088.cbz"
           type="application/zip"/>
@@ -2478,7 +2478,7 @@
   <entry>
     <title>我独自升级 第089話：影子互换</title>
     <id>urn:uuid:16d07d7e-9eb0-596d-a049-26744fe8e78f</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0089.cbz"
           type="application/zip"/>
@@ -2492,7 +2492,7 @@
   <entry>
     <title>我独自升级 第089話：影子互换</title>
     <id>urn:uuid:16d07d7e-9eb0-596d-a049-26744fe8e78f</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0089.cbz"
           type="application/zip"/>
@@ -2506,7 +2506,7 @@
   <entry>
     <title>我独自升级 第090話：复苏的季节</title>
     <id>urn:uuid:05f3b984-ce3b-5454-a6d1-9bd046a3eecf</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0090.cbz"
           type="application/zip"/>
@@ -2520,7 +2520,7 @@
   <entry>
     <title>我独自升级 第090話：复苏的季节</title>
     <id>urn:uuid:05f3b984-ce3b-5454-a6d1-9bd046a3eecf</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0090.cbz"
           type="application/zip"/>
@@ -2534,7 +2534,7 @@
   <entry>
     <title>我独自升级 第091話：S级聚首</title>
     <id>urn:uuid:d5984fab-6b68-5b08-a3ac-0d98103714d0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0091.cbz"
           type="application/zip"/>
@@ -2548,7 +2548,7 @@
   <entry>
     <title>我独自升级 第091話：S级聚首</title>
     <id>urn:uuid:d5984fab-6b68-5b08-a3ac-0d98103714d0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0091.cbz"
           type="application/zip"/>
@@ -2562,7 +2562,7 @@
   <entry>
     <title>我独自升级 第092話：S级，对练！</title>
     <id>urn:uuid:9d3e47f7-1604-5471-ac66-b6c69396becc</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0092.cbz"
           type="application/zip"/>
@@ -2576,7 +2576,7 @@
   <entry>
     <title>我独自升级 第092話：S级，对练！</title>
     <id>urn:uuid:9d3e47f7-1604-5471-ac66-b6c69396becc</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0092.cbz"
           type="application/zip"/>
@@ -2590,7 +2590,7 @@
   <entry>
     <title>我独自升级 第093話：失控的猎人</title>
     <id>urn:uuid:94426343-6a00-539c-a5cd-10c9325b84b0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0093.cbz"
           type="application/zip"/>
@@ -2604,7 +2604,7 @@
   <entry>
     <title>我独自升级 第093話：失控的猎人</title>
     <id>urn:uuid:94426343-6a00-539c-a5cd-10c9325b84b0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0093.cbz"
           type="application/zip"/>
@@ -2618,7 +2618,7 @@
   <entry>
     <title>我独自升级 第094話：一战成名</title>
     <id>urn:uuid:52bb1114-ccae-58de-a585-abd3bd2326ba</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0094.cbz"
           type="application/zip"/>
@@ -2632,7 +2632,7 @@
   <entry>
     <title>我独自升级 第094話：一战成名</title>
     <id>urn:uuid:52bb1114-ccae-58de-a585-abd3bd2326ba</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0094.cbz"
           type="application/zip"/>
@@ -2646,7 +2646,7 @@
   <entry>
     <title>我独自升级 第095話：进化的蚂蚁</title>
     <id>urn:uuid:dba3a666-ef08-53db-a95e-0f40fc645220</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0095.cbz"
           type="application/zip"/>
@@ -2660,7 +2660,7 @@
   <entry>
     <title>我独自升级 第095話：进化的蚂蚁</title>
     <id>urn:uuid:dba3a666-ef08-53db-a95e-0f40fc645220</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0095.cbz"
           type="application/zip"/>
@@ -2674,7 +2674,7 @@
   <entry>
     <title>我独自升级 第096話：除蚁行动</title>
     <id>urn:uuid:5b1c5dea-3a02-507a-ae92-51efbb9c6186</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0096.cbz"
           type="application/zip"/>
@@ -2688,7 +2688,7 @@
   <entry>
     <title>我独自升级 第096話：除蚁行动</title>
     <id>urn:uuid:5b1c5dea-3a02-507a-ae92-51efbb9c6186</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0096.cbz"
           type="application/zip"/>
@@ -2702,7 +2702,7 @@
   <entry>
     <title>我独自升级 第097話：蚂蚁怪物</title>
     <id>urn:uuid:270ea699-f236-5f84-aadc-4093ea0e8a28</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0097.cbz"
           type="application/zip"/>
@@ -2716,7 +2716,7 @@
   <entry>
     <title>我独自升级 第097話：蚂蚁怪物</title>
     <id>urn:uuid:270ea699-f236-5f84-aadc-4093ea0e8a28</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0097.cbz"
           type="application/zip"/>
@@ -2730,7 +2730,7 @@
   <entry>
     <title>我独自升级 第098話：猎人怪物</title>
     <id>urn:uuid:d012a31c-1934-52e8-a352-d16f16a43c75</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0098.cbz"
           type="application/zip"/>
@@ -2744,7 +2744,7 @@
   <entry>
     <title>我独自升级 第098話：猎人怪物</title>
     <id>urn:uuid:d012a31c-1934-52e8-a352-d16f16a43c75</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0098.cbz"
           type="application/zip"/>
@@ -2758,7 +2758,7 @@
   <entry>
     <title>我独自升级 第099話：它比蚁后更强大！</title>
     <id>urn:uuid:a6e55871-5fae-57f5-a6a7-8854a150cc9b</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0099.cbz"
           type="application/zip"/>
@@ -2772,7 +2772,7 @@
   <entry>
     <title>我独自升级 第099話：它比蚁后更强大！</title>
     <id>urn:uuid:a6e55871-5fae-57f5-a6a7-8854a150cc9b</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0099.cbz"
           type="application/zip"/>
@@ -2786,7 +2786,7 @@
   <entry>
     <title>我独自升级 第100話：邪恶蚂蚁</title>
     <id>urn:uuid:4d645bd4-7e99-5896-afe6-7ff51330f72b</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0100.cbz"
           type="application/zip"/>
@@ -2800,7 +2800,7 @@
   <entry>
     <title>我独自升级 第100話：邪恶蚂蚁</title>
     <id>urn:uuid:4d645bd4-7e99-5896-afe6-7ff51330f72b</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0100.cbz"
           type="application/zip"/>
@@ -2814,7 +2814,7 @@
   <entry>
     <title>我独自升级 第101話：我是王</title>
     <id>urn:uuid:05bd0bd0-fb60-536c-acfc-1dd6d5c8d608</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0101.cbz"
           type="application/zip"/>
@@ -2828,7 +2828,7 @@
   <entry>
     <title>我独自升级 第101話：我是王</title>
     <id>urn:uuid:05bd0bd0-fb60-536c-acfc-1dd6d5c8d608</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0101.cbz"
           type="application/zip"/>
@@ -2842,7 +2842,7 @@
   <entry>
     <title>我独自升级 第102話：王与王</title>
     <id>urn:uuid:4e5c0782-013f-5ff5-ad7a-3764b8df0093</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0102.cbz"
           type="application/zip"/>
@@ -2856,7 +2856,7 @@
   <entry>
     <title>我独自升级 第102話：王与王</title>
     <id>urn:uuid:4e5c0782-013f-5ff5-ad7a-3764b8df0093</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0102.cbz"
           type="application/zip"/>
@@ -2870,7 +2870,7 @@
   <entry>
     <title>我独自升级 第103話：蚂蚁心态崩了</title>
     <id>urn:uuid:d6e078ae-f82a-51c9-a618-22a3f2e2e47d</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0103.cbz"
           type="application/zip"/>
@@ -2884,7 +2884,7 @@
   <entry>
     <title>我独自升级 第103話：蚂蚁心态崩了</title>
     <id>urn:uuid:d6e078ae-f82a-51c9-a618-22a3f2e2e47d</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0103.cbz"
           type="application/zip"/>
@@ -2898,7 +2898,7 @@
   <entry>
     <title>我独自升级 第104話：不知所措小蚂蚁</title>
     <id>urn:uuid:108fdb3e-200a-5619-aecb-3dd63c1a8c07</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0104.cbz"
           type="application/zip"/>
@@ -2912,7 +2912,7 @@
   <entry>
     <title>我独自升级 第104話：不知所措小蚂蚁</title>
     <id>urn:uuid:108fdb3e-200a-5619-aecb-3dd63c1a8c07</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0104.cbz"
           type="application/zip"/>
@@ -2926,7 +2926,7 @@
   <entry>
     <title>我独自升级 第105話：巅峰</title>
     <id>urn:uuid:99b955a5-8df7-581f-a031-a97b649c5a25</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0105.cbz"
           type="application/zip"/>
@@ -2940,7 +2940,7 @@
   <entry>
     <title>我独自升级 第105話：巅峰</title>
     <id>urn:uuid:99b955a5-8df7-581f-a031-a97b649c5a25</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0105.cbz"
           type="application/zip"/>
@@ -2954,7 +2954,7 @@
   <entry>
     <title>我独自升级 第106話：提取，解除</title>
     <id>urn:uuid:220c4fb9-b738-5e46-a26d-3cc890b2be3f</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0106.cbz"
           type="application/zip"/>
@@ -2968,7 +2968,7 @@
   <entry>
     <title>我独自升级 第106話：提取，解除</title>
     <id>urn:uuid:220c4fb9-b738-5e46-a26d-3cc890b2be3f</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0106.cbz"
           type="application/zip"/>
@@ -2982,7 +2982,7 @@
   <entry>
     <title>我独自升级 第107話：贝尔</title>
     <id>urn:uuid:df94c6d1-36ef-5fa1-a4da-65521ecd8fca</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0107.cbz"
           type="application/zip"/>
@@ -2996,7 +2996,7 @@
   <entry>
     <title>我独自升级 第107話：贝尔</title>
     <id>urn:uuid:df94c6d1-36ef-5fa1-a4da-65521ecd8fca</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0107.cbz"
           type="application/zip"/>
@@ -3010,7 +3010,7 @@
   <entry>
     <title>我独自升级 第108話：狩猎计划</title>
     <id>urn:uuid:7e258021-6970-5a37-ab56-b9b5cfcd04ad</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0108.cbz"
           type="application/zip"/>
@@ -3024,7 +3024,7 @@
   <entry>
     <title>我独自升级 第108話：狩猎计划</title>
     <id>urn:uuid:7e258021-6970-5a37-ab56-b9b5cfcd04ad</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0108.cbz"
           type="application/zip"/>
@@ -3038,7 +3038,7 @@
   <entry>
     <title>我独自升级 第109話：升级者</title>
     <id>urn:uuid:844cc397-abd9-56aa-abd7-6f5d6bb6be18</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0109.cbz"
           type="application/zip"/>
@@ -3052,7 +3052,7 @@
   <entry>
     <title>我独自升级 第109話：升级者</title>
     <id>urn:uuid:844cc397-abd9-56aa-abd7-6f5d6bb6be18</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0109.cbz"
           type="application/zip"/>
@@ -3066,7 +3066,7 @@
   <entry>
     <title>我独自升级 第110話：极限</title>
     <id>urn:uuid:ad4ead39-6867-548e-a424-b24675590cb7</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0110.cbz"
           type="application/zip"/>
@@ -3080,7 +3080,7 @@
   <entry>
     <title>我独自升级 第110話：极限</title>
     <id>urn:uuid:ad4ead39-6867-548e-a424-b24675590cb7</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0110.cbz"
           type="application/zip"/>
@@ -3094,7 +3094,7 @@
   <entry>
     <title>我独自升级 第111話：我将继续前行</title>
     <id>urn:uuid:ad09e7e1-6bb6-5ab0-a108-49f6c2087f54</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0111.cbz"
           type="application/zip"/>
@@ -3108,7 +3108,7 @@
   <entry>
     <title>我独自升级 第111話：我将继续前行</title>
     <id>urn:uuid:ad09e7e1-6bb6-5ab0-a108-49f6c2087f54</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0111.cbz"
           type="application/zip"/>
@@ -3122,7 +3122,7 @@
   <entry>
     <title>我独自升级 第112話：序章 吾王之势，气吞山海</title>
     <id>urn:uuid:c6d1b45a-1a56-5c1d-adf6-144c4e0e96af</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0112.cbz"
           type="application/zip"/>
@@ -3136,7 +3136,7 @@
   <entry>
     <title>我独自升级 第112話：序章 吾王之势，气吞山海</title>
     <id>urn:uuid:c6d1b45a-1a56-5c1d-adf6-144c4e0e96af</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0112.cbz"
           type="application/zip"/>
@@ -3150,7 +3150,7 @@
   <entry>
     <title>我独自升级 第113話：重启</title>
     <id>urn:uuid:747a3c19-e8dc-50df-a728-509e740f93f4</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0113.cbz"
           type="application/zip"/>
@@ -3164,7 +3164,7 @@
   <entry>
     <title>我独自升级 第113話：重启</title>
     <id>urn:uuid:747a3c19-e8dc-50df-a728-509e740f93f4</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0113.cbz"
           type="application/zip"/>
@@ -3178,7 +3178,7 @@
   <entry>
     <title>我独自升级 第114話：单身汉公会</title>
     <id>urn:uuid:84611e0e-1adc-5587-afbc-7a6e3718903d</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0114.cbz"
           type="application/zip"/>
@@ -3192,7 +3192,7 @@
   <entry>
     <title>我独自升级 第114話：单身汉公会</title>
     <id>urn:uuid:84611e0e-1adc-5587-afbc-7a6e3718903d</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0114.cbz"
           type="application/zip"/>
@@ -3206,7 +3206,7 @@
   <entry>
     <title>我独自升级 第115話：入会测试</title>
     <id>urn:uuid:6f91cbca-7f7e-5021-a091-59015fe808c2</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0115.cbz"
           type="application/zip"/>
@@ -3220,7 +3220,7 @@
   <entry>
     <title>我独自升级 第115話：入会测试</title>
     <id>urn:uuid:6f91cbca-7f7e-5021-a091-59015fe808c2</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0115.cbz"
           type="application/zip"/>
@@ -3234,7 +3234,7 @@
   <entry>
     <title>我独自升级 第116話：失控的蚂蚁</title>
     <id>urn:uuid:adf11642-deb9-5bed-a6a7-cd440c87b8a0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0116.cbz"
           type="application/zip"/>
@@ -3248,7 +3248,7 @@
   <entry>
     <title>我独自升级 第116話：失控的蚂蚁</title>
     <id>urn:uuid:adf11642-deb9-5bed-a6a7-cd440c87b8a0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0116.cbz"
           type="application/zip"/>
@@ -3262,7 +3262,7 @@
   <entry>
     <title>我独自升级 第117話：力量来源</title>
     <id>urn:uuid:2a492b3f-c2f5-568e-a62c-6d7ff946a062</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0117.cbz"
           type="application/zip"/>
@@ -3276,7 +3276,7 @@
   <entry>
     <title>我独自升级 第117話：力量来源</title>
     <id>urn:uuid:2a492b3f-c2f5-568e-a62c-6d7ff946a062</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0117.cbz"
           type="application/zip"/>
@@ -3290,7 +3290,7 @@
   <entry>
     <title>我独自升级 第118話：异常</title>
     <id>urn:uuid:683687a4-68b6-582e-a8de-4b77455fb12a</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0118.cbz"
           type="application/zip"/>
@@ -3304,7 +3304,7 @@
   <entry>
     <title>我独自升级 第118話：异常</title>
     <id>urn:uuid:683687a4-68b6-582e-a8de-4b77455fb12a</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0118.cbz"
           type="application/zip"/>
@@ -3318,7 +3318,7 @@
   <entry>
     <title>我独自升级 第119話：入侵</title>
     <id>urn:uuid:9f2935e8-ee23-5007-a18e-73a412380541</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0119.cbz"
           type="application/zip"/>
@@ -3332,7 +3332,7 @@
   <entry>
     <title>我独自升级 第119話：入侵</title>
     <id>urn:uuid:9f2935e8-ee23-5007-a18e-73a412380541</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0119.cbz"
           type="application/zip"/>
@@ -3346,7 +3346,7 @@
   <entry>
     <title>我独自升级 第120話：全速！</title>
     <id>urn:uuid:6aae2e07-4039-5d41-af5d-399b5f5e2652</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0120.cbz"
           type="application/zip"/>
@@ -3360,7 +3360,7 @@
   <entry>
     <title>我独自升级 第121話：恐惧之物</title>
     <id>urn:uuid:6e9e7162-3c10-5097-a16f-17cee9820462</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0121.cbz"
           type="application/zip"/>
@@ -3374,7 +3374,7 @@
   <entry>
     <title>我独自升级 第121話：恐惧之物</title>
     <id>urn:uuid:6e9e7162-3c10-5097-a16f-17cee9820462</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0121.cbz"
           type="application/zip"/>
@@ -3388,7 +3388,7 @@
   <entry>
     <title>我独自升级 第122話：王的选择</title>
     <id>urn:uuid:b0d58a31-dde3-5ec1-a61a-f7d60b8d214e</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0122.cbz"
           type="application/zip"/>
@@ -3402,7 +3402,7 @@
   <entry>
     <title>我独自升级 第122話：王的选择</title>
     <id>urn:uuid:b0d58a31-dde3-5ec1-a61a-f7d60b8d214e</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0122.cbz"
           type="application/zip"/>
@@ -3416,7 +3416,7 @@
   <entry>
     <title>我独自升级 第123話：误会</title>
     <id>urn:uuid:ad3aed9c-7eb5-545c-ad1a-b598f01414b0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0123.cbz"
           type="application/zip"/>
@@ -3430,7 +3430,7 @@
   <entry>
     <title>我独自升级 第123話：误会</title>
     <id>urn:uuid:ad3aed9c-7eb5-545c-ad1a-b598f01414b0</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0123.cbz"
           type="application/zip"/>
@@ -3444,7 +3444,7 @@
   <entry>
     <title>我独自升级 第124話：一人成军</title>
     <id>urn:uuid:6fab9506-1bf4-5bb4-a6a2-4cc112c7f6c9</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0124.cbz"
           type="application/zip"/>
@@ -3458,7 +3458,7 @@
   <entry>
     <title>我独自升级 第124話：一人成军</title>
     <id>urn:uuid:6fab9506-1bf4-5bb4-a6a2-4cc112c7f6c9</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0124.cbz"
           type="application/zip"/>
@@ -3472,7 +3472,7 @@
   <entry>
     <title>我独自升级 第125話：共享翻车</title>
     <id>urn:uuid:d741de4a-d5c2-5d81-a302-7100f602f21c</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0125.cbz"
           type="application/zip"/>
@@ -3486,7 +3486,7 @@
   <entry>
     <title>我独自升级 第125話：共享翻车</title>
     <id>urn:uuid:d741de4a-d5c2-5d81-a302-7100f602f21c</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0125.cbz"
           type="application/zip"/>
@@ -3500,7 +3500,7 @@
   <entry>
     <title>我独自升级 第126話：再战神庙</title>
     <id>urn:uuid:f7870d05-6152-5a6e-a25a-6166dbfbddb9</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0126.cbz"
           type="application/zip"/>
@@ -3514,7 +3514,7 @@
   <entry>
     <title>我独自升级 第126話：再战神庙</title>
     <id>urn:uuid:f7870d05-6152-5a6e-a25a-6166dbfbddb9</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0126.cbz"
           type="application/zip"/>
@@ -3528,7 +3528,7 @@
   <entry>
     <title>我独自升级 第127話：我是谁</title>
     <id>urn:uuid:884d1469-da1e-55d1-a481-fdfbc32d196f</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0127.cbz"
           type="application/zip"/>
@@ -3542,7 +3542,7 @@
   <entry>
     <title>我独自升级 第127話：我是谁</title>
     <id>urn:uuid:884d1469-da1e-55d1-a481-fdfbc32d196f</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0127.cbz"
           type="application/zip"/>
@@ -3556,7 +3556,7 @@
   <entry>
     <title>我独自升级 第128話：设计者</title>
     <id>urn:uuid:f3e431b7-093c-53d5-ab69-c99d36685a86</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0128.cbz"
           type="application/zip"/>
@@ -3570,7 +3570,7 @@
   <entry>
     <title>我独自升级 第128話：设计者</title>
     <id>urn:uuid:f3e431b7-093c-53d5-ab69-c99d36685a86</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0128.cbz"
           type="application/zip"/>
@@ -3584,7 +3584,7 @@
   <entry>
     <title>我独自升级 第129話：养成系统</title>
     <id>urn:uuid:bb1e2ec3-bc38-5ef9-a477-04fd21519926</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0129.cbz"
           type="application/zip"/>
@@ -3598,7 +3598,7 @@
   <entry>
     <title>我独自升级 第130話：记忆数据</title>
     <id>urn:uuid:f264d875-7811-583a-a900-068291316f94</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0130.cbz"
           type="application/zip"/>
@@ -3612,7 +3612,7 @@
   <entry>
     <title>我独自升级 第131話：视角</title>
     <id>urn:uuid:0e186dd5-6cfe-5ee1-aa05-ec610f95ead1</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0131.cbz"
           type="application/zip"/>
@@ -3626,7 +3626,7 @@
   <entry>
     <title>我独自升级 第132話：黑色心脏</title>
     <id>urn:uuid:63cc3424-4082-51df-a608-7ffcde1a3a83</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0132.cbz"
           type="application/zip"/>
@@ -3640,7 +3640,7 @@
   <entry>
     <title>我独自升级 第133話：巨人之威</title>
     <id>urn:uuid:00a0a14e-e454-542f-a5fc-d69389093616</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0133.cbz"
           type="application/zip"/>
@@ -3654,7 +3654,7 @@
   <entry>
     <title>我独自升级 第134話：选择（1）</title>
     <id>urn:uuid:1e6eae00-b2ce-51db-accc-0152618d03a1</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0134.cbz"
           type="application/zip"/>
@@ -3668,7 +3668,7 @@
   <entry>
     <title>我独自升级 第135話：选择（2）</title>
     <id>urn:uuid:72eafdf9-b1e8-5813-a2ea-eb6ad70c85a7</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0135.cbz"
           type="application/zip"/>
@@ -3682,7 +3682,7 @@
   <entry>
     <title>我独自升级 第136話：讨伐巨人</title>
     <id>urn:uuid:8cb7c4b9-3e01-530f-a473-aa1030c34d83</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0136.cbz"
           type="application/zip"/>
@@ -3696,7 +3696,7 @@
   <entry>
     <title>我独自升级 第137話：全军</title>
     <id>urn:uuid:2d74ba32-9110-5a3c-a475-b7a735319231</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0137.cbz"
           type="application/zip"/>
@@ -3710,7 +3710,7 @@
   <entry>
     <title>我独自升级 第138話：伺机而动</title>
     <id>urn:uuid:909a2c56-8a03-56d1-a98a-08a459f6945d</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0138.cbz"
           type="application/zip"/>
@@ -3724,7 +3724,7 @@
   <entry>
     <title>我独自升级 第139話：被封印的君王</title>
     <id>urn:uuid:5c58a0b1-a2ee-5d23-af62-39ec9ecd475d</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0139.cbz"
           type="application/zip"/>
@@ -3738,7 +3738,7 @@
   <entry>
     <title>我独自升级 第140話：灾难</title>
     <id>urn:uuid:9b05bbce-85f7-5aec-a51f-cff1e6001a54</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0140.cbz"
           type="application/zip"/>
@@ -3752,7 +3752,7 @@
   <entry>
     <title>我独自升级 第141話：谁站在人类一方</title>
     <id>urn:uuid:86100a9c-7db5-51a0-aa7f-e518c7fa70d6</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0141.cbz"
           type="application/zip"/>
@@ -3766,7 +3766,7 @@
   <entry>
     <title>我独自升级 第142話：父亲的消息</title>
     <id>urn:uuid:448d7b4a-8364-5068-ae25-1efc210c646a</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0142.cbz"
           type="application/zip"/>
@@ -3780,7 +3780,7 @@
   <entry>
     <title>我独自升级 第143話：全球会议</title>
     <id>urn:uuid:7ed385c1-f359-5f29-ab1f-5e2694d08fb1</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0143.cbz"
           type="application/zip"/>
@@ -3794,7 +3794,7 @@
   <entry>
     <title>我独自升级 第144話：尸体的价值</title>
     <id>urn:uuid:68e6d270-7a4f-5513-aea7-b8bd28bf3795</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0144.cbz"
           type="application/zip"/>
@@ -3808,7 +3808,7 @@
   <entry>
     <title>我独自升级 第145話：失踪的晨浩</title>
     <id>urn:uuid:49d73102-3da3-5364-a47a-2cb4b1c28dc6</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0145.cbz"
           type="application/zip"/>
@@ -3822,7 +3822,7 @@
   <entry>
     <title>我独自升级 第146話：君王的怒火</title>
     <id>urn:uuid:4fdc4dd4-e1e5-5f76-ab57-976a2713f6ea</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0146.cbz"
           type="application/zip"/>
@@ -3836,7 +3836,7 @@
   <entry>
     <title>我独自升级 第147話：不可遏制的愤怒</title>
     <id>urn:uuid:cf201256-374f-574f-a224-20431d81623c</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0147.cbz"
           type="application/zip"/>
@@ -3850,7 +3850,7 @@
   <entry>
     <title>我独自升级 第148話：较量</title>
     <id>urn:uuid:94e4d9fb-69ce-5114-aaf2-329bca2be8f5</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0148.cbz"
           type="application/zip"/>
@@ -3864,7 +3864,7 @@
   <entry>
     <title>我独自升级 第149話：一拳接一拳</title>
     <id>urn:uuid:e80f02b5-4007-50e3-a9d2-c101c8550151</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0149.cbz"
           type="application/zip"/>
@@ -3878,7 +3878,7 @@
   <entry>
     <title>我独自升级 第150話：魔气</title>
     <id>urn:uuid:b03a5632-2dc2-57ed-aa49-46db22683f1e</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0150.cbz"
           type="application/zip"/>
@@ -3892,7 +3892,7 @@
   <entry>
     <title>我独自升级 第151話：猎杀名单</title>
     <id>urn:uuid:09f3d92d-d743-55dc-aaea-3424eaa30e1f</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0151.cbz"
           type="application/zip"/>
@@ -3906,7 +3906,7 @@
   <entry>
     <title>我独自升级 第152話：会长被刺</title>
     <id>urn:uuid:2705b681-f664-56f0-a05f-e0eb47e93552</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0152.cbz"
           type="application/zip"/>
@@ -3920,7 +3920,7 @@
   <entry>
     <title>我独自升级 第153話：会长之死</title>
     <id>urn:uuid:0be6d671-7f09-5cc9-a155-2ab4ad64cb75</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0153.cbz"
           type="application/zip"/>
@@ -3934,7 +3934,7 @@
   <entry>
     <title>我独自升级 第154話：狩猎暗影君王</title>
     <id>urn:uuid:6c8feb77-a542-52e8-ac6d-f112b8d8966a</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0154.cbz"
           type="application/zip"/>
@@ -3948,7 +3948,7 @@
   <entry>
     <title>我独自升级 第155話：卡米什的愤怒</title>
     <id>urn:uuid:1d37e6b5-e5ec-5c8d-a35c-8cc4b9900c66</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0155.cbz"
           type="application/zip"/>
@@ -3962,7 +3962,7 @@
   <entry>
     <title>我独自升级 第156話：终结还是开始</title>
     <id>urn:uuid:aba842e4-cebd-5d05-a416-505a6004505f</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0156.cbz"
           type="application/zip"/>
@@ -3976,7 +3976,7 @@
   <entry>
     <title>我独自升级 第157話：唯一的朋友</title>
     <id>urn:uuid:cecbe945-d781-56f0-a119-d048c2f5408f</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0157.cbz"
           type="application/zip"/>
@@ -3990,7 +3990,7 @@
   <entry>
     <title>我独自升级 第158話：发疯的野兽</title>
     <id>urn:uuid:98c3fe5d-2874-579d-af83-709426cef97a</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0158.cbz"
           type="application/zip"/>
@@ -4004,7 +4004,7 @@
   <entry>
     <title>我独自升级 第159話：饥饿的君王</title>
     <id>urn:uuid:372b4431-8991-5810-a726-fde07f715be9</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0159.cbz"
           type="application/zip"/>
@@ -4018,7 +4018,7 @@
   <entry>
     <title>我独自升级 第159話：饥饿的君王</title>
     <id>urn:uuid:372b4431-8991-5810-a726-fde07f715be9</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0159.cbz"
           type="application/zip"/>
@@ -4032,7 +4032,7 @@
   <entry>
     <title>我独自升级 第160話：四位君王</title>
     <id>urn:uuid:3f2886f3-c480-5bff-ac2f-84360f0eceef</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0160.cbz"
           type="application/zip"/>
@@ -4046,7 +4046,7 @@
   <entry>
     <title>我独自升级 第161話：合围</title>
     <id>urn:uuid:156483a2-65b1-5e55-a1ee-99101d7659f7</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0161.cbz"
           type="application/zip"/>
@@ -4060,7 +4060,7 @@
   <entry>
     <title>我独自升级 第162話：同名小说爆更完结！</title>
     <id>urn:uuid:8c1d27fa-ce63-5815-a435-f073223a4a31</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0162.cbz"
           type="application/zip"/>
@@ -4074,7 +4074,7 @@
   <entry>
     <title>我独自升级 第163話：落幕</title>
     <id>urn:uuid:13cac08e-41a8-5247-aba1-bc166f0da010</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0163.cbz"
           type="application/zip"/>
@@ -4088,7 +4088,7 @@
   <entry>
     <title>我独自升级 第164話：是否重启世界</title>
     <id>urn:uuid:28c0f3a0-5428-5894-ab67-c4067ceefd65</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0164.cbz"
           type="application/zip"/>
@@ -4102,7 +4102,7 @@
   <entry>
     <title>我独自升级 第165話：开始和结束</title>
     <id>urn:uuid:57c184be-80e4-5914-a1f3-3a21ade6b83c</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0165.cbz"
           type="application/zip"/>
@@ -4116,7 +4116,7 @@
   <entry>
     <title>我独自升级 第166話：我就是你</title>
     <id>urn:uuid:9a8a91c8-8051-565b-a8c8-0aa696e69c41</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0166.cbz"
           type="application/zip"/>
@@ -4130,7 +4130,7 @@
   <entry>
     <title>我独自升级 第167話：复活</title>
     <id>urn:uuid:f83c0d7b-face-53f8-a234-92a0cbc61fc5</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0167.cbz"
           type="application/zip"/>
@@ -4144,7 +4144,7 @@
   <entry>
     <title>我独自升级 第168話：王的警告</title>
     <id>urn:uuid:abbf3bfe-cb2b-54a5-a4ae-5ef03dd7cd17</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0168.cbz"
           type="application/zip"/>
@@ -4158,7 +4158,7 @@
   <entry>
     <title>我独自升级 第169話：战争的序幕</title>
     <id>urn:uuid:beea98b1-7834-51f9-ad70-c52f2c5fe8d4</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0169.cbz"
           type="application/zip"/>
@@ -4172,7 +4172,7 @@
   <entry>
     <title>我独自升级 第170話：真正的战争</title>
     <id>urn:uuid:86a50761-8f11-54c9-ad83-f5d3bb23397b</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0170.cbz"
           type="application/zip"/>
@@ -4186,7 +4186,7 @@
   <entry>
     <title>我独自升级 第171話：战争的真相</title>
     <id>urn:uuid:36794c68-b058-56f8-a636-c766ca1a53bd</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0171.cbz"
           type="application/zip"/>
@@ -4200,7 +4200,7 @@
   <entry>
     <title>我独自升级 第172話：龙帝</title>
     <id>urn:uuid:83555083-0277-543b-af48-429151efc76d</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0172.cbz"
           type="application/zip"/>
@@ -4214,7 +4214,7 @@
   <entry>
     <title>我独自升级 第178話：灵体化</title>
     <id>urn:uuid:93c12daa-7152-5349-a28f-1f3516133209</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0178.cbz"
           type="application/zip"/>
@@ -4228,7 +4228,7 @@
   <entry>
     <title>我独自升级 第178話：灵体化</title>
     <id>urn:uuid:93c12daa-7152-5349-a28f-1f3516133209</id>
-    <updated>2026-11-26T04:22:15Z</updated>
+    <updated>2026-11-27T04:06:40Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7/0178.cbz"
           type="application/zip"/>
