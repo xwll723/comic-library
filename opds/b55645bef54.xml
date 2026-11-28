@@ -3,7 +3,7 @@
       xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:80b2c671-69fe-55c5-a628-83ab89a8e4e9</id>
   <title>星STAR</title>
-  <updated>2026-11-27T04:06:40Z</updated>
+  <updated>2026-11-28T03:58:55Z</updated>
   <author><name>包子漫畫</name></author>
   <link rel="self" href="https://xwll723.github.io/comic-library/opds/b55645bef54.xml"
         type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
@@ -14,7 +14,7 @@
   <entry>
     <title>星STAR 第001话：神秘测试</title>
     <id>urn:uuid:f2a43a17-c3f8-5798-afd9-f96eed45c503</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0001.cbz"
           type="application/zip"/>
@@ -28,7 +28,7 @@
   <entry>
     <title>星STAR 第002话：奇怪的开始</title>
     <id>urn:uuid:c1281fad-4206-5399-a721-6d6d433e2f8c</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0002.cbz"
           type="application/zip"/>
@@ -42,7 +42,7 @@
   <entry>
     <title>星STAR 第003话：星盟的邀请</title>
     <id>urn:uuid:e294a2f9-c7c4-5586-a8b4-e5ee217dc909</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0003.cbz"
           type="application/zip"/>
@@ -56,7 +56,7 @@
   <entry>
     <title>星STAR 第004话：进入</title>
     <id>urn:uuid:baa0febd-14a0-5c76-a8c4-e046bda7e782</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0004.cbz"
           type="application/zip"/>
@@ -70,7 +70,7 @@
   <entry>
     <title>星STAR 第005话：奖品？</title>
     <id>urn:uuid:f78d4e09-2758-5d61-a8c9-84b540736f07</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0005.cbz"
           type="application/zip"/>
@@ -84,7 +84,7 @@
   <entry>
     <title>星STAR 第006话：禁言之湖</title>
     <id>urn:uuid:601abdb5-a7ca-5736-a5d3-4e4666794810</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0006.cbz"
           type="application/zip"/>
@@ -98,7 +98,7 @@
   <entry>
     <title>星STAR 第007话：湖面激斗</title>
     <id>urn:uuid:73844996-50d1-55ae-a7de-b7cc4e92d586</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0007.cbz"
           type="application/zip"/>
@@ -112,7 +112,7 @@
   <entry>
     <title>星STAR 第008话：试炼森林</title>
     <id>urn:uuid:67f25190-467e-5499-a004-91615be1e534</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0008.cbz"
           type="application/zip"/>
@@ -126,7 +126,7 @@
   <entry>
     <title>星STAR 第009话：谁养鱼？</title>
     <id>urn:uuid:77f22ffe-b551-52d7-a1e2-1303be047b23</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0009.cbz"
           type="application/zip"/>
@@ -140,7 +140,7 @@
   <entry>
     <title>星STAR 第010话：兑奖处</title>
     <id>urn:uuid:294dcb3a-2ba2-583f-ac34-a4bd24dc830c</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0010.cbz"
           type="application/zip"/>
@@ -154,7 +154,7 @@
   <entry>
     <title>星STAR 第010话：兑奖处</title>
     <id>urn:uuid:294dcb3a-2ba2-583f-ac34-a4bd24dc830c</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0010.cbz"
           type="application/zip"/>
@@ -168,7 +168,7 @@
   <entry>
     <title>星STAR 第011话：惊心动魄的下半程（上）</title>
     <id>urn:uuid:ffec8727-2723-5184-aa27-deb9bb6923e8</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0011.cbz"
           type="application/zip"/>
@@ -182,7 +182,7 @@
   <entry>
     <title>星STAR 第011话：惊心动魄的下半程（上）</title>
     <id>urn:uuid:ffec8727-2723-5184-aa27-deb9bb6923e8</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0011.cbz"
           type="application/zip"/>
@@ -196,7 +196,7 @@
   <entry>
     <title>星STAR 第011话：惊心动魄的下半程（上）</title>
     <id>urn:uuid:ffec8727-2723-5184-aa27-deb9bb6923e8</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0011.cbz"
           type="application/zip"/>
@@ -210,7 +210,7 @@
   <entry>
     <title>星STAR 第012话：惊心动魄的下半程（二）</title>
     <id>urn:uuid:9770bfb3-b1d9-5eef-a17e-d0b9b4d3fff2</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0012.cbz"
           type="application/zip"/>
@@ -224,7 +224,7 @@
   <entry>
     <title>星STAR 第012话：惊心动魄的下半程（二）</title>
     <id>urn:uuid:9770bfb3-b1d9-5eef-a17e-d0b9b4d3fff2</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0012.cbz"
           type="application/zip"/>
@@ -238,7 +238,7 @@
   <entry>
     <title>星STAR 第013话：惊心动魄的下半程（三）</title>
     <id>urn:uuid:1d870c4b-d5ff-5499-aa4a-ca793e3e4afd</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0013.cbz"
           type="application/zip"/>
@@ -252,7 +252,7 @@
   <entry>
     <title>星STAR 第013话：惊心动魄的下半程（三）</title>
     <id>urn:uuid:1d870c4b-d5ff-5499-aa4a-ca793e3e4afd</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0013.cbz"
           type="application/zip"/>
@@ -266,7 +266,7 @@
   <entry>
     <title>星STAR 第014话：惊心动魄的下半程（四）</title>
     <id>urn:uuid:93aa8f00-a49f-5600-ad77-4e46594b917f</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0014.cbz"
           type="application/zip"/>
@@ -280,7 +280,7 @@
   <entry>
     <title>星STAR 第014话：惊心动魄的下半程（四）</title>
     <id>urn:uuid:93aa8f00-a49f-5600-ad77-4e46594b917f</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0014.cbz"
           type="application/zip"/>
@@ -294,7 +294,7 @@
   <entry>
     <title>星STAR 第015话：丁冲，冲吧！</title>
     <id>urn:uuid:07a7a686-b919-5017-ab68-a91d00e461cd</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0015.cbz"
           type="application/zip"/>
@@ -308,7 +308,7 @@
   <entry>
     <title>星STAR 第015话：丁冲，冲吧！</title>
     <id>urn:uuid:07a7a686-b919-5017-ab68-a91d00e461cd</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0015.cbz"
           type="application/zip"/>
@@ -322,7 +322,7 @@
   <entry>
     <title>星STAR 第015话：丁冲，冲吧！</title>
     <id>urn:uuid:07a7a686-b919-5017-ab68-a91d00e461cd</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0015.cbz"
           type="application/zip"/>
@@ -336,7 +336,7 @@
   <entry>
     <title>星STAR 第015话：丁冲，冲吧！</title>
     <id>urn:uuid:07a7a686-b919-5017-ab68-a91d00e461cd</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0015.cbz"
           type="application/zip"/>
@@ -350,7 +350,7 @@
   <entry>
     <title>星STAR 第015话：丁冲，冲吧！</title>
     <id>urn:uuid:07a7a686-b919-5017-ab68-a91d00e461cd</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0015.cbz"
           type="application/zip"/>
@@ -364,7 +364,7 @@
   <entry>
     <title>星STAR 第015话：丁冲，冲吧！</title>
     <id>urn:uuid:07a7a686-b919-5017-ab68-a91d00e461cd</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0015.cbz"
           type="application/zip"/>
@@ -378,7 +378,7 @@
   <entry>
     <title>星STAR 第015话：丁冲，冲吧！</title>
     <id>urn:uuid:07a7a686-b919-5017-ab68-a91d00e461cd</id>
-    <updated>2026-11-27T04:06:40Z</updated>
+    <updated>2026-11-28T03:58:55Z</updated>
     <link rel="http://opds-spec.org/acquisition"
           href="https://hf-proxy.xwll723825.workers.dev/file/library/%E6%98%9Fstar/0015.cbz"
           type="application/zip"/>
